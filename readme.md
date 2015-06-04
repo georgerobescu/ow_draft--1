@@ -2,7 +2,7 @@
 
 *Is there a reason for why I am here, pushing keystrokes and committing my changes to the server, to the git-master of this project?*
 
-## 1.Ethics
+## 1. Ethics
 
 Create a new `readme.md` file in which you outline the intentions and objectives of the repository:
 * What’s the aim of the project? Are you forking someone else project—thus supposedly improving it—or did you create a fresh new repo?
@@ -27,9 +27,9 @@ These last questions are basic lines that constitutes what it means to be part o
 
 This first area dives into the realm of the *ethics*: from the moment you delineate your first words into the readme file, you assume a particular position and therefore contribute to the place where you published such mentioned repository in a specific manner.
 
-## 2.Participation
+## 2. Participation
 
-The `readme.md` file is a personal statement about the work that you’re doing, and it position itself inside a broader space of actions.
+The `readme.md` file is a personal statement about the work that you’re doing, and it positions itself inside a broader space of actions.
 
 Depending on your own interests and needs, it might be that you’re working on a personal project just on your own or, on the other side, you are collaborating on someone else’s project—which at this point might be considered solely initiated by this someone else, but since the many contributions by different other enthusiast people, not anymore his *own thing*; it depends.
 
@@ -37,4 +37,10 @@ This passage marks a move from a personal moral code to a broader stage in which
 
 The value of the `readme.md` file lies exactly in this: it welcomes others to a possibile conversation. The `readme.md` file is a subjective effort in making readable and understandable what you did or what you just started doing.
 
-# 3.Peer production
+# 3. Peer production
+
+`git`is a system that works as an invisibile set of files inside the folder which you decide to use as your project repository.
+What it does is to keep track of every change you implement to the files living in that folder: it’s like an invisible layer of pre-punched holes on your timecard. In fact, it’s you the one who decides when to really mark a change, or a series of changes, to the project: what you did, then, is a `commit` to the repository.
+
+
+
