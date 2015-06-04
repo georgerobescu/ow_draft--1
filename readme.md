@@ -31,8 +31,10 @@ This first area dives into the realm of the *ethics*: from the moment you deline
 
 The `readme.md` file is a personal statement about the work that you’re doing, and it position itself inside a broader space of actions.
 
-Depending on your own interests and needs, it might be that you’re working on a personal project just on your own or, on the other side, you are collaborating on someone else’s project—which at this point might be considered solely initiated by this someone else, but since the many contributions by different other enthusiast people, not anymore his own thing; it depends.
+Depending on your own interests and needs, it might be that you’re working on a personal project just on your own or, on the other side, you are collaborating on someone else’s project—which at this point might be considered solely initiated by this someone else, but since the many contributions by different other enthusiast people, not anymore his *own thing*; it depends.
 
-This passage marks a move from a personal moral code—namely working on something on your own—to a broader stage in which ethics have their own importance: you publish your repository somewhere over the internet and you are willing, also thanks to the system implemented in the website where you upload your work, to let people inspect your project and in take part in it, if they wish so.
+This passage marks a move from a personal moral code to a broader stage in which ethics have their own importance: you publish your repository somewhere over the internet and you are willing, also thanks to the system implemented in the website where you upload your work, to let people inspect your project and to let them taking part in it, if they wish so.
 
-The value of the `readme.md` file lies exactly in this: welcome others to a possibile conversation. The `readme.md` file is a subjective effort in making readable and understandable what you did or what you just started doing; what 
+The value of the `readme.md` file lies exactly in this: it welcomes others to a possibile conversation. The `readme.md` file is a subjective effort in making readable and understandable what you did or what you just started doing.
+
+# 3.Peer production
