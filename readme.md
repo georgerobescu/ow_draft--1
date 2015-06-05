@@ -48,12 +48,11 @@ Whenever you make changes to your project, it’s good practice to commit those 
 
 This process was initially born for collaboratively purposes (to avoid miscommunication and mistakes between several people working remotely), but it has been adopted also as a way to document your own personal working process.
 
+> I’m doing this, done, commit; I’m doing this, done, commit; *rhythm*
+
 *How can you help to contribute on someone else project?*
 
 1. Make sure you are logged in in one of the many services which let share git-repositories online (e.g. github, bitbucket).
 2. Find a repository which you like.
 3. Click on the `fork` button; in this way a copy (duplicate) of the repository will be created inside your own profile and you can immediately start to work on it (the content of the repository has been `pulled` down to your own git).
 4. When you are done with the changes, just `push` it back to the master repository (the original source from which you `forked` it) and ask for a `pull to request` session. Other people (*users?*) involved in the repository (from the original creator of the repository to other people who forked the project as well) will receive a notifications. At least this is how it works over here on [github.com](https://github.com).
-
-
-
