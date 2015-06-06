@@ -41,4 +41,7 @@ Another aspect of the project wants to touch the inherently question of transpar
 
 The idea of digging into the torrentz culture is still appealing to me, but less for the ascii art part and more on the p2p side and the building of a different form of trust between people (users?). To be a bit more exact, I’m still excited on the idea that the second guest-tutor pitched on me: a film which unfolds itself through the acquisition of more and more data from the different servers that the torrent app uses to build the film. A sort of genesis of the raw material needed to constitute the final product.
 
-Back to transparency.
+Back to transparency. Why using ascii art? Especially in an .nfo file, it is a way to externalise one’s own specificity and sense of being, meaning, how to be represented and seen in the world.
+At the same time, ascii art can be utilised as a way to avoid or interspersing the usual work-time and work-related mindset with a subversion?, act of making fun of, act of having fun, personal expression, perversion of the usual schemes adopted in the work environment and so on.
+
+Approaching transparency on the level of `git` and websites like github, what I find quite telling and deeply at work is the language in use throughout the two tools. Besides this, the history of the commits for each project and the logic behind it. But these two elements are quite self-evident, though the first one a bit more subtle.
