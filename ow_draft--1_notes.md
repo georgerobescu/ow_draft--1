@@ -31,6 +31,9 @@ In order not to lose myself in one of the many themes that I’m trying to conne
 
 I’ll try to stick to it also because I want to expand its boundaries as much as possibile, with the use of analogies and personal hypothesis, even if haphazard ones (read *bullshit*).
 
-On a different general level, a website like github represents a new way to show the performativy of a project, and to extension of the person (or people) behind it.
+On a different general level, a website like github represents a new way to show the performativy of a project, and to extension, of the person (or people) behind it.
 
-In a sense, it’s a multifaceted tool to help someone working better (and supposedly more efficiently and with less problems in fixing possible bugs coming up along the way), but at the same time, in keeping track of every action and ask to the person working on it to externalise what has been done (hypothetically) after each new edit, `git` establishes a form of discipline. It’s called *self-discipline*, and it works very well with the process of subjectivisation that the act of publishing a project on a code-sharing platform like github ignites.
+In a sense, it’s a multifaceted tool to help someone working better (and supposedly more efficiently and with less problems in fixing possible bugs coming up along the way), but at the same time, in keeping track of every action and ask to the person working on it to externalise what has been done (hypothetically) after each new edit, `git` establishes a form of discipline. I’d called it *self-discipline*, and it works very well with the process of subjectivisation that the act of publishing a project on a code-sharing platform like github ignites.
+
+To each new commit indeed, corresponds a timestamp of the moment in which that action was performed. And whenever you decide is time to push all those edits inside a new commit, you are forced to described what you just did in a way that, ideally, summarises quite well the new changes.
+
