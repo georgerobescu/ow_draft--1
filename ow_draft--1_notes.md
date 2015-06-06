@@ -37,3 +37,8 @@ In a sense, it’s a multifaceted tool to help someone working better (and suppo
 
 To each new commit indeed, corresponds a timestamp of the moment in which that action was performed. And whenever you decide is time to push all those edits inside a new commit, you are forced to described what you just did in a way that, ideally, summarises quite well the new changes.
 
+Another aspect of the project wants to touch the inherently question of transparency. Originally what I wanted to do, was to presente a series of ascii art pieces, rich enough to fit the 2500 words requested for the thesis proposal. This brought me to the idea of the .nfo file and the readme file respectively. From there, I began to think that maybe there were more potentials in exploring the format of the readme file: from the easy parallel to an artistic manifesto, to the personal declaration of each worker uploading her/his project on a code-sharing website.
+
+The idea of digging into the torrentz culture is still appealing to me, but less for the ascii art part and more on the p2p side and the building of a different form of trust between people (users?). To be a bit more exact, I’m still excited on the idea that the second guest-tutor pitched on me: a film which unfolds itself through the acquisition of more and more data from the different servers that the torrent app uses to build the film. A sort of genesis of the raw material needed to constitute the final product.
+
+Back to transparency.
