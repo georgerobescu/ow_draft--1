@@ -19,6 +19,11 @@ This mechanism transforms the person using it in a sort of log-keeper, putting h
 
 Hence, the `readme.md` file acts as the welcome door to someone’s project. In it, it is usually delineated the objectives of the repository, how it has been implemented (citing other projects which have been made use of), and often giving an overview of how the *thing* works (if needed). In many times, there is a personal insight (or more) as an addendum.
 
-What I am trying to push with `git`, the `readme.md` file and services like github, is a sort of new subjectivisation realised thanks to the act of publishing a project in a public website and presenting it through the `readme.md` file: a repository with a one-liner in the readme.md is at best a bad introduction (or a temporary one), at worst a non-existent object in the discourse of, for example, github.
+What I am trying to push with `git`, the `readme.md` file and services like github, is a sort of new subjectivisation realised thanks to the act of publishing a project in a public website and presenting it through the `readme.md` file. You do exist because you are able to present your project; your project does exist because it has been presented by you. The two elements, creator and artefact, find their space in the general discourse of a site like github throught the `readme.md` file.
 
-In the same way, it’s almost possible to see this `readme.md` file as a small personal manifest of intentions: I did this and this because I was unhappy or very excited about that and that, so I came up with this bunch of code.
+This brings to some scenarios:
+* *one-liner* readme.md→the project is in a temporary phase at best, non-existent at worst.
+* ???
+
+In the same way, it’s almost possible to see this `readme.md` file as a small personal manifest of intentions, every time re-perpetuated with different content: *I did this and this because I was unhappy or very excited about that and that, so I came up with this bunch of code*.
+
