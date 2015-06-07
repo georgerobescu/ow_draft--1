@@ -58,8 +58,21 @@ It’s a so-called easter-egg, part of the programmer culture (one might say?), 
 
 Here it is — [http://andrewgooch.com/wp-content/themes/theme-v01/style.css](http://andrewgooch.com/wp-content/themes/theme-v01/style.css).
 
-Reaching back again to the theme of transparency, what all this ascii art, .nfo file and readme.md file presuppose is, indeed, an element of research, of being curious towards such artefacts and wanting to find out more, to open up and dissect things.
-It is, then, a movement quite at the opposite of an easily grilled-served transparency, because it needs a vector willing to zig-zag on the other side. Nonetheless all these things are there to be discovered, teared apart and studied.
+Reaching back again to the theme of transparency, what all this `ascii art`, `.nfo` file and `readme.md` file presuppose is, indeed, an element of research, of being curious towards such artefacts and wanting to find out more, to open up and dissect things. It is, then, a movement quite at the opposite of an easily grilled-served transparency, because it needs a vector willing to zig-zag on the other side. Nonetheless all these things are there to be discovered, teared apart and enjoyed.
 
+Approaching transparency on the level of `git` and websites like github, instead, what I find there quite telling and deeply at work is the language in use throughout the two tools:
+* forking
+* pulling
+* pushing
+* committing
 
-Approaching transparency on the level of `git` and websites like github, what I find quite telling and deeply at work is the language in use throughout the two tools. Besides this, the history of the commits for each project and the logic behind it. But these two elements are quite self-evident, though the first one a bit more subtle.
+to name a few of the basic operations possible to perform.
+I love the brutality of the verbs chosen, which are a reminder of physical actions you would do on machines, maybe? It’s also possible to see in it, a direct correlation with the culture within they are born, white-male computer-educated people. And I cannot avoid to mention this project in which sexual connotations are exploited to have fun—in the perfect style of the bro culture (cfr. *brogrammer*).
+
+— [DICSS](https://github.com/letsgetrandy/DICSS) and especially the opened [issues](https://github.com/letsgetrandy/DICSS/issues), where most of the post are other supposedly invented and non-existent programming languages named just to expand the conversation about sexuality.
+
+More than the ethical problematics about the subjects, which are part of an ever-more rising culture of “cool dudes writing code”—a sort of the new american man who owns the world and his reality, who dominates, even though till five years ago and probably in many other realities still now, it was and it is seen as a weird guy bashing on the keyboard in front of a screen—what’s really interesting for the subject matter I’m exploring now is the usage of the readme.md structure and successively the `issues` functions to build a narrative, a fiction. Not concerning the fact that the library in itself is a bluff, rather the surrounding painted all around it, the act of making a sexist joke, knowing that probably a good majority will give you a high-five for this and then having a big laugh.
+
+And this is a very active element that can be used to build the culture inside a specific *peer-production* environment (or if you prefer, scene).
+
+Besides this, the history of the commits for each project and the logic behind it. 
