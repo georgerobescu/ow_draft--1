@@ -56,5 +56,10 @@ A good example is what was made by the now defunct design studio *Second Cousins
 
 It’s a so-called easter-egg, part of the programmer culture (one might say?), and exactly for this, it’s a dispersion of extra-added value for the people inspecting the website and looking up how the style of it was implemented. So, during a working-related activity (no matter if performed by a professional designer/developer or an amateur one or simply a curious person—but still the act of curiosity can been judged as wanting to know more, so probably still under the umbrella of work), there is an unexpected finding which can provoke pleasure or a smile or a release of some sort (included a *wtf man, you serious?*).
 
+Here it is — [http://andrewgooch.com/wp-content/themes/theme-v01/style.css](http://andrewgooch.com/wp-content/themes/theme-v01/style.css).
+
+Reaching back again to the theme of transparency, what all this ascii art, .nfo file and readme.md file presuppose is, indeed, an element of research, of being curious towards such artefacts and wanting to find out more, to open up and dissect things.
+It is, then, a movement quite at the opposite of an easily grilled-served transparency, because it needs a vector willing to zig-zag on the other side. Nonetheless all these things are there to be discovered, teared apart and studied.
+
 
 Approaching transparency on the level of `git` and websites like github, what I find quite telling and deeply at work is the language in use throughout the two tools. Besides this, the history of the commits for each project and the logic behind it. But these two elements are quite self-evident, though the first one a bit more subtle.
