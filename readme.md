@@ -25,7 +25,7 @@ Depending on the personal reality of each of us, we’ll reply to the above ques
 These last questions are basic lines that constitutes what it means to be part of an open-source software-based community, or satellites and posthumous positions born after (Creative Commons, for example).
 **check** 
 
-This first area dives into the realm of the *ethics*: from the moment you delineate your first words into the readme file, you assume a particular position and therefore contribute to the place where you published such mentioned repository in a specific manner. Outlining the `readme.md` file is the first act to enter the discussion in which other contributors are taking part. This place of discussion is the working place, also when the kind of projects submitted and shared to a website like github.com are made during one’s own free time. The `readme.md` file, hence, becomes the first form of identity able to mediated your work with the interest of other people hanging out in a particular place (github.com).
+This first area dives into the realm of the *ethics*: from the moment you delineate your first words into the readme file, you assume a particular position and therefore contribute to the place where you published such mentioned repository in a specific manner. Outlining the `readme.md` file is the first act to enter the discussion in which other contributors are taking part. This place of discussion is the working place, also when the kind of projects submitted and shared to a website like github.com are made during one’s own free time. The `readme.md` file, hence, becomes the first form of identity able to mediate your work with the interest of other people hanging out in a working environment (github.com).
 
 
 ## 2. Participation
@@ -34,22 +34,20 @@ The `readme.md` file is a personal statement about the work that you’re doing,
 
 Depending on your own interests and needs, it might be that you’re working on a personal project just on your own or, on the other side, you are collaborating on someone else’s project—which at this point might be considered solely initiated by this someone else, but since the many contributions by different other enthusiast people, not anymore his *own thing*; it depends.
 
-This passage marks a move from a personal moral code to a broader stage in which ethics have their own importance: you publish your repository somewhere over the internet and you are willing to, also thanks to the system implemented in the website where you upload your work, let people inspect your project and to let them taking part in it, if they wish so.
+This passage marks a move from a personal space of action and connected morality, to a broader stage in which ethics have their own importance: you publish your repository somewhere over the internet and you are willing to, also thanks to the system implemented in the website where you upload your work, let people inspect your project and taking part in it, if they wish so.
 
 The value of the `readme.md` file lies exactly in this: it welcomes others to a possibile conversation. The `readme.md` file is a subjective effort in making readable and understandable what you did or what you just started doing.
-
-
 
 # 3. Peer production
 
 `git` is a system that works as an invisibile set of files inside the folder which you decide to use as your project repository.
-What it does is to keep track of every change you implement to the files living in that folder: it’s like an invisible layer of pre-punched holes on your timecard. In fact, it’s you the one who decides when to really mark a change, or a series of changes, to the project: what you did, then, is a `commit` to the repository.
+What it does is to keep track of every change you implement to the files living in that folder: it’s like an invisible layer of pre-punched holes in your timecard. In fact, it’s you the one who decides when to really mark a change, or a series of changes, to the project: what you did, then, is a `commit` to the repository.
 
 In this sense, usually the first file that you create and then commit to the repository is the `readme.md` file—it’s not necessary but it usually helps you to at least give a brief description of what’s going on in that repo.
 
 Whenever you make changes to your project, it’s good practice to commit those edits to git (and often consequently to github), in order to have a log of what has been done up until that point.
 
-This process was initially born for collaboratively purposes (to avoid miscommunication and mistakes between several people working remotely), but it has been adopted also as a way to document your own personal working process.
+This process was initially born for collaboratively purposes (to avoid miscommunication and mistakes between several people working remotely), but it has been adopted also as a way to document one’s own personal working process.
 
 > I’m doing this, done, commit; I’m doing this, done, commit; *rhythm*
 
@@ -60,8 +58,18 @@ This process was initially born for collaboratively purposes (to avoid miscommun
 3. Click on the `fork` button; in this way a copy (duplicate) of the repository will be created inside your own profile and you can immediately start to work on it (the content of the repository has been `pulled` down to your own git profile).
 4. When you are done with the changes, just `push` it back to the master repository (the original source from which you `forked` it) and ask for a `pull to request` session. Other people (*users?*) involved in the repository (from the original creator of the repository to other contributors who forked the project as well) will receive a notifications.
 
-It’s then a matter of discussing those changes in the issues section of the repository. Exactly here, peers dynamics take place. 
+It’s then a matter of discussing those changes in the issues section of the repository. Exactly here, peers dynamics take place.
 
+Peer production between disparate users happens, instead, in the `pull request` section. After having submitted a new feature to the main project you’re contributing, whistle to the project manager you’d like to discuss something you made: a back and forth collaboration between the two parts will start (and ideally more people can enter the discussion).
+
+Some people use the `pull request` feature to send themselves things to review:
+1. open a new pull request at the end of the day before going to bed;
+2. wake up the day after early in the morning, and while checking your email, read the notification you sent to yourself 8-10 hours before;
+3. go back to work and complete the request.
+
+A technique like this, let someone almost completely abstract her himself from the reality of working alone on a project, gaining a rather new magic level of interaction between two temporal-based version of oneself.
+
+Conversely
 
 
 
