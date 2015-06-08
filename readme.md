@@ -69,7 +69,7 @@ Some people use the `pull request` feature to send themselves things to review:
 
 A technique like this, let someone almost completely abstract her himself from the reality of working alone on a project, gaining a rather new magic level of interaction between two temporal-based version of oneself.
 
-Conversely, the same feature can be intensely used to debate if there’s still one original creator of the project: what happen when the contributors take more and more voice in the discourse of the project? How does the original creator feel like, especially when he she moved to the position of project manager? Does she he feel like an Art Director or a janitor? Since she he’s still in charge of deciding which pull requests to accept and to merge to the master project and which not, but at the same time has to possibly manage a mountain of pull requests because the project got quite some popularity, where does he she position him herself?
+Conversely, the same feature can be intensely used to debate if there’s still one original creator of the project: what happen when the contributors take more and more voice in the discourse of it? How does the original creator feel like, especially when he she moved to the position of project manager? Does she he feel like an Art Director or a janitor? Since she he’s still in charge of deciding which pull requests to accept and to merge to the master project and which not, but at the same time has to possibly manage a mountain of pull requests because the project got quite some popularity, where does he she position him herself?
 
 It is maybe here that the `readme.md` file becomes once again valuable in expressing a clear position on the project.
 
@@ -85,7 +85,9 @@ Some questions:
 * Is it better to capitalise the first letter of the first word of the sentence or not?
 * Do you use present tense or past tense (“fix a typo” or “Fixed a typo”)?
 
-Both simple points are mostly a matter of the people you are working with, in a specific repository, or, even better, just up to you if the project is one of your personal ones. Then, anyway, deciding upon a specific style will enhance your way of working. How would you react in reading, after a couple of days, that you “Fixed a typo” and now there is still a bug due to that edit? Would it not be better if, instead, you would have opted for the “fix a typo”, for the here and now? In doing so, all the future problems might be seen as still in the realm of the possibilities, since the present tense gives a feeling of an active ongoing project, not of an action done and archived in the past.
+Both simple points are mostly a matter of the people you are working with in a specific repository, or, even better, just up to you if the project is one of your personal ones. Then, anyway, deciding upon a specific style will enhance your way of working. How would you react in reading, after a couple of days, that you “Fixed a typo” and now there is still a bug due to that edit? Would it not be better if, instead, you would have opted for the “fix a typo”, for the here and now? In doing so, all the future problems might be seen as still in the realm of possibilities, since the present tense gives a feeling of an active ongoing project, not of an action done and archived in the past.
+
+As you’re building a micro public space, what’s your policy on the element of discoverability and surprise? Though ornamenting a readme file on github with some ascii art is not a smart choice, probably, since it’s the first text you see when you open the project page, other techniques such disseminating of small ascii art drawings some of your other working file (such as the `style.css` file), might result in an act of pleasure for the one stumbling on it.
 
 
 
