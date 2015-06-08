@@ -30,13 +30,15 @@ This first area dives into the realm of the *ethics*: from the moment you deline
 
 ## 2. Participation
 
-The `readme.md` file is a personal statement about the work that you’re doing, and it positions itself inside a broader space of actions.
+The `readme.md` file is a personal statement about the work that you’re doing, and it positions itself inside a broader space of actions (e.g. the politics of a community).
 
 Depending on your own interests and needs, it might be that you’re working on a personal project just on your own or, on the other side, you are collaborating on someone else’s project—which at this point might be considered solely initiated by this someone else, but since the many contributions by different other enthusiast people, not anymore his *own thing*; it depends.
 
-This passage marks a move from a personal moral code to a broader stage in which ethics have their own importance: you publish your repository somewhere over the internet and you are willing, also thanks to the system implemented in the website where you upload your work, to let people inspect your project and to let them taking part in it, if they wish so.
+This passage marks a move from a personal moral code to a broader stage in which ethics have their own importance: you publish your repository somewhere over the internet and you are willing to, also thanks to the system implemented in the website where you upload your work, let people inspect your project and to let them taking part in it, if they wish so.
 
 The value of the `readme.md` file lies exactly in this: it welcomes others to a possibile conversation. The `readme.md` file is a subjective effort in making readable and understandable what you did or what you just started doing.
+
+
 
 # 3. Peer production
 
@@ -58,4 +60,8 @@ This process was initially born for collaboratively purposes (to avoid miscommun
 3. Click on the `fork` button; in this way a copy (duplicate) of the repository will be created inside your own profile and you can immediately start to work on it (the content of the repository has been `pulled` down to your own git profile).
 4. When you are done with the changes, just `push` it back to the master repository (the original source from which you `forked` it) and ask for a `pull to request` session. Other people (*users?*) involved in the repository (from the original creator of the repository to other contributors who forked the project as well) will receive a notifications. At least this is how it works over here on [github.com](https://github.com).
 
-## x.Maintenance Work
+## 4. Transparency
+
+## 5. Common Goods
+
+## 6. Maintenance Work
