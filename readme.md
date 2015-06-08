@@ -1,6 +1,6 @@
 # ow—draft #1
 
-*Is there a reason for why I am here, pushing keystrokes and committing my changes to the server, to the git-master of this project?*
+*Is there a reason why I am here, pushing keystrokes and committing my changes to the server, to the git-master of this project?*
 
 ## 1. Ethics
 
