@@ -38,6 +38,8 @@ This passage marks a move from a personal space of action and connected morality
 
 The value of the `readme.md` file lies exactly in this: it welcomes others to a possibile conversation. The `readme.md` file is a subjective effort in making readable and understandable what you did or what you just started doing.
 
+*Language+++*
+
 # 3. Peer production
 
 `git` is a system that works as an invisibile set of files inside the folder which you decide to use as your project repository.
@@ -87,12 +89,9 @@ Some questions:
 
 Both simple points are mostly a matter of the people you are working with in a specific repository, or, even better, just up to you if the project is one of your personal ones. Then, anyway, deciding upon a specific style will enhance your way of working. How would you react in reading, after a couple of days, that you “Fixed a typo” and now there is still a bug due to that edit? Would it not be better if, instead, you would have opted for the “fix a typo”, for the here and now? In doing so, all the future problems might be seen as still in the realm of possibilities, since the present tense gives a feeling of an active ongoing project, not of an action done and archived in the past.
 
-As you’re building a micro public space, what’s your policy on the element of discoverability and surprise? Though ornamenting a readme file on github with some ascii art is not a smart choice, probably, since it’s the first text you see when you open the project page, other techniques such disseminating of small ascii art drawings some of your other working file (such as the `style.css` file), might result in an act of pleasure for the one stumbling on it.
+As you’re building a micro public space, what’s your policy on the element of discoverability and surprise? Though ornamenting a readme file on github with some ascii art is not a smart choice, probably, since it’s the first text you see when you open the project page, other techniques such disseminating some of your other working file with small ascii art drawings (such as the `style.css` file), might result in an act of pleasure for the ones stumbling on them.
 
-
-
-
-## 5. Common Goods
+## 5.
 
 
 
