@@ -21,11 +21,7 @@ Depending on the personal reality of each of us, we’ll reply to the above ques
 * do I feel the obligation to share, improve and take part in a general (and particular) discourse or in many? (for e.g. forking cool projects that I like in order to improve them and spread them in my circles; feeling the right to take as much free code as possible and use it in my own retributed projects, since it has been put out there and nobody will ever know).
 * what are the dynamics of these communities and more specifically of these artefacts, tools, and means of productions?
 
-**check**
-These last questions are basic lines that constitutes what it means to be part of an open-source software-based community, or satellites and posthumous positions born after (Creative Commons, for example).
-**check** 
-
-This first area dives into the realm of the *ethics*: from the moment you delineate your first words into the readme file, you assume a particular position and therefore contribute to the place where you published such mentioned repository in a specific manner. Outlining the `readme.md` file is the first act to enter the discussion in which other contributors are taking part. This place of discussion is the working place, also when the kind of projects submitted and shared to a website like github.com are made during one’s own free time. The `readme.md` file, hence, becomes the first form of identity able to mediate your work with the interest of other people hanging out in a working environment (github.com).
+This first area dives into the realm of the *ethics*: from the moment you delineate your first words into the readme file, you assume a particular position and therefore contribute to the place where you published such mentioned repository in a specific manner. Outlining the `readme.md` file is the first act to enter the discussion in which other contributors are taking part. This place of discussion is the working place. It is also when the kind of projects submitted and shared to a website like github.com are made during one’s own free time. The `readme.md` file, hence, becomes the first form of identity able to mediate your work with the interest of other people hanging out in a working environment like [github.com](github.com).
 
 
 ## 2. Participation
@@ -34,11 +30,12 @@ The `readme.md` file is a personal statement about the work that you’re doing,
 
 Depending on your own interests and needs, it might be that you’re working on a personal project just on your own or, on the other side, you are collaborating on someone else’s project—which at this point might be considered solely initiated by this someone else, but since the many contributions by different other enthusiast people, not anymore his *own thing*; it depends.
 
-This passage marks a move from a personal space of action and connected morality, to a broader stage in which ethics have their own importance: you publish your repository somewhere over the internet and you are willing to, also thanks to the system implemented in the website where you upload your work, let people inspect your project and taking part in it, if they wish so.
+This passage marks a move from a personal space of action and connected morality, to a broader stage in which ethics have their own importance: you publish your repository somewhere over the internet and you are willing to, also thanks to the system implemented in the website where you upload your work, let other people inspect your project and taking part in it, if they wish so.
 
 The value of the `readme.md` file lies exactly in this: it welcomes others to a possibile conversation. The `readme.md` file is a subjective effort in making readable and understandable what you did or what you just started doing.
 
-*Language+++*
+How does this happen? Here some common actions you can do using git and consequently on github:
+
 
 # 3. Peer production
 
