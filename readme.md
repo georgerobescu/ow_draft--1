@@ -14,7 +14,7 @@ For now, adding a simple description (one-liner!) of the repository is enough. O
 This first step of creating and taking care of the `readme.md` file brings with itself different implications:
 * for whom am I working and why do I want to document all this?
 * who’s watching me doing this? is it for this reason that I am doing it?
-* do I have and/or expect an audience?
+* do I have and/or do I expect an audience?
 
 Depending on the personal reality of each of us, we’ll reply to the above questions in a particular way. There after, some other points might be:
 * am I part of a community?
@@ -22,7 +22,7 @@ Depending on the personal reality of each of us, we’ll reply to the above ques
 * what are the dynamics of these communities and more specifically of these artefacts, tools, and means of productions?
 
 **check**
-These last questions are basic lines that constitutes what it means to be part of a open-source software-based community, or satellites and posthumous positions born after (Creative Commons, for example).
+These last questions are basic lines that constitutes what it means to be part of an open-source software-based community, or satellites and posthumous positions born after (Creative Commons, for example).
 **check**
 
 This first area dives into the realm of the *ethics*: from the moment you delineate your first words into the readme file, you assume a particular position and therefore contribute to the place where you published such mentioned repository in a specific manner.
@@ -39,10 +39,10 @@ The value of the `readme.md` file lies exactly in this: it welcomes others to a 
 
 # 3. Peer production
 
-`git`is a system that works as an invisibile set of files inside the folder which you decide to use as your project repository.
+`git` is a system that works as an invisibile set of files inside the folder which you decide to use as your project repository.
 What it does is to keep track of every change you implement to the files living in that folder: it’s like an invisible layer of pre-punched holes on your timecard. In fact, it’s you the one who decides when to really mark a change, or a series of changes, to the project: what you did, then, is a `commit` to the repository.
 
-In this sense, usually the first file that you create and then commit to the repository is the `readme.md` file—it’s not necessary but it usually helps you to at least give a brief description of what’s going on on that repo.
+In this sense, usually the first file that you create and then commit to the repository is the `readme.md` file—it’s not necessary but it usually helps you to at least give a brief description of what’s going on in that repo.
 
 Whenever you make changes to your project, it’s good practice to commit those edit to git (and often consequently to github), in order to have a log of what has been done up until that point.
 
@@ -52,7 +52,9 @@ This process was initially born for collaboratively purposes (to avoid miscommun
 
 *How can you help to contribute on someone else project?*
 
-1. Make sure you are logged in in one of the many services which let share git-repositories online (e.g. github, bitbucket).
+1. Make sure you are logged in on one of the many services which let share git-repositories online (e.g. github, bitbucket).
 2. Find a repository which you like.
-3. Click on the `fork` button; in this way a copy (duplicate) of the repository will be created inside your own profile and you can immediately start to work on it (the content of the repository has been `pulled` down to your own git).
-4. When you are done with the changes, just `push` it back to the master repository (the original source from which you `forked` it) and ask for a `pull to request` session. Other people (*users?*) involved in the repository (from the original creator of the repository to other people who forked the project as well) will receive a notifications. At least this is how it works over here on [github.com](https://github.com).
+3. Click on the `fork` button; in this way a copy (duplicate) of the repository will be created inside your own profile and you can immediately start to work on it (the content of the repository has been `pulled` down to your own git profile).
+4. When you are done with the changes, just `push` it back to the master repository (the original source from which you `forked` it) and ask for a `pull to request` session. Other people (*users?*) involved in the repository (from the original creator of the repository to other contributors who forked the project as well) will receive a notifications. At least this is how it works over here on [github.com](https://github.com).
+
+## x.Maintenance Work
