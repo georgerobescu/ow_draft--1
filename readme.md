@@ -34,7 +34,15 @@ This passage marks a move from a personal space of action and connected morality
 
 The value of the `readme.md` file lies exactly in this: it welcomes others to a possibile conversation. The `readme.md` file is a subjective effort in making readable and understandable what you did or what you just started doing.
 
-How does this happen? Here some common actions you can do using git and consequently on github:
+How does this happen? Here some common actions you can do using git:
+* `commit` (one or several changes you made on your files, gathered together and ready to be sent up to the server)
+* `push` (a commit to the server)
+* `pull` (down from the server the latest updated version of a repository project)
+
+And specifically for collaborate on a project with other people (it might be yours or you might want to contribute to it):
+* `fork` (a project repository→cloning it to your git profile in order to have a separated identical copy on which you can work without creating problems with the “original” one)
+* `pull request` (a way to ask to the user who made the original repo you are collaborating on, if your changes are okay or not)
+* `open an issues` (tracking and solving bugs found throughout the repo you are using)
 
 
 # 3. Peer production
