@@ -75,7 +75,17 @@ It is maybe here that the `readme.md` file becomes once again valuable in expres
 
 ## 4. Transparency
 
+In designing a better system to remotely collaborate on code-based project, git for sure emphasises on asking for clarity and preciseness on the side of the user.
+“Add a comment to your commit” might seem still too friendly, meaning an open-ended question, which could turn into a field of experimental poetry or lazy vagueness.
+But that commit goes up on your commit history and will stay there forever, unless you’re gonna delete the whole repository.
 
+So how does one deal with? Are there any specific writing style, at least suggested ones, to better comply with the tracking system?
+
+Some questions:
+* Is it better to capitalise the first letter of the first word of the sentence or not?
+* Do you use present tense or past tense (“fix a typo” or “Fixed a typo”)?
+
+Both simple points are mostly a matter of the people you are working with, in a specific repository, or, even better, just up to you if the project is one of your personal ones. Then, anyway, deciding upon a specific style will enhance your way of working. How would you react in reading, after a couple of days, that you “Fixed a typo” and now there is still a bug due to that edit? Would it not be better if, instead, you would have opted for the “fix a typo”, for the here and now? In doing so, all the future problems might be seen as still in the realm of the possibilities, since the present tense gives a feeling of an active ongoing project, not of an action done and archived in the past.
 
 
 
