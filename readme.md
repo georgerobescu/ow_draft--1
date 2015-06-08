@@ -18,14 +18,15 @@ This first step of creating and taking care of the `readme.md` file brings with 
 
 Depending on the personal reality of each of us, we’ll reply to the above questions in a particular way. There after, some other points might be:
 * am I part of a community?
-* do I feel the obligation to share, improve and take part in a general (and particular) discourse or in many? (for e.g. forking cool projects that I like in order to improve them and spread them in my circles; feel the right to take as much free code as possible and use it in my own retributed projects, since it has been put out there and nobody will ever know).
+* do I feel the obligation to share, improve and take part in a general (and particular) discourse or in many? (for e.g. forking cool projects that I like in order to improve them and spread them in my circles; feeling the right to take as much free code as possible and use it in my own retributed projects, since it has been put out there and nobody will ever know).
 * what are the dynamics of these communities and more specifically of these artefacts, tools, and means of productions?
 
 **check**
 These last questions are basic lines that constitutes what it means to be part of an open-source software-based community, or satellites and posthumous positions born after (Creative Commons, for example).
-**check**
+**check** 
 
-This first area dives into the realm of the *ethics*: from the moment you delineate your first words into the readme file, you assume a particular position and therefore contribute to the place where you published such mentioned repository in a specific manner.
+This first area dives into the realm of the *ethics*: from the moment you delineate your first words into the readme file, you assume a particular position and therefore contribute to the place where you published such mentioned repository in a specific manner. Outlining the `readme.md` file is the first act to enter the discussion in which other contributors are taking part. This place of discussion is the working place, also when the kind of projects submitted and shared to a website like github.com are made during one’s own free time. The `readme.md` file, hence, becomes the first form of identity able to mediated your work with the interest of other people hanging out in a particular place (github.com).
+
 
 ## 2. Participation
 
