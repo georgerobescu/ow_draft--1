@@ -47,21 +47,49 @@ What it does is to keep track of every change you implement to the files living 
 
 In this sense, usually the first file that you create and then commit to the repository is the `readme.md` file—it’s not necessary but it usually helps you to at least give a brief description of what’s going on in that repo.
 
-Whenever you make changes to your project, it’s good practice to commit those edit to git (and often consequently to github), in order to have a log of what has been done up until that point.
+Whenever you make changes to your project, it’s good practice to commit those edits to git (and often consequently to github), in order to have a log of what has been done up until that point.
 
 This process was initially born for collaboratively purposes (to avoid miscommunication and mistakes between several people working remotely), but it has been adopted also as a way to document your own personal working process.
 
 > I’m doing this, done, commit; I’m doing this, done, commit; *rhythm*
 
-*How can you help to contribute on someone else project?*
+*How can you help to contribute on someone else’s project?*
 
 1. Make sure you are logged in on one of the many services which let share git-repositories online (e.g. github, bitbucket).
 2. Find a repository which you like.
 3. Click on the `fork` button; in this way a copy (duplicate) of the repository will be created inside your own profile and you can immediately start to work on it (the content of the repository has been `pulled` down to your own git profile).
-4. When you are done with the changes, just `push` it back to the master repository (the original source from which you `forked` it) and ask for a `pull to request` session. Other people (*users?*) involved in the repository (from the original creator of the repository to other contributors who forked the project as well) will receive a notifications. At least this is how it works over here on [github.com](https://github.com).
+4. When you are done with the changes, just `push` it back to the master repository (the original source from which you `forked` it) and ask for a `pull to request` session. Other people (*users?*) involved in the repository (from the original creator of the repository to other contributors who forked the project as well) will receive a notifications.
+
+It’s then a matter of discussing those changes in the issues section of the repository. Exactly here, peers dynamics take place. 
+
+
+
+
+
 
 ## 4. Transparency
 
+
+
+
+
+
 ## 5. Common Goods
 
+
+
+
+
 ## 6. Maintenance Work
+
+
+
+
+
+
+
+
+
+
+
+
