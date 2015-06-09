@@ -30,19 +30,25 @@ The `readme.md` file is a personal statement about the work that you’re doing,
 
 Depending on your own interests and needs, it might be that you’re working on a personal project just on your own or, on the other side, you are collaborating on someone else’s project—which at this point might be considered solely initiated by this someone else, but since the many contributions by different other enthusiast people, not anymore his *own thing*; it depends.
 
-This passage marks a move from a personal space of action and connected morality, to a broader stage in which ethics have their own importance: you publish your repository somewhere over the internet and you are willing to, also thanks to the system implemented in the website where you upload your work, let other people inspect your project and taking part in it, if they wish so.
+This passage marks a move from a personal space of action and connected morality, to a broader stage in which ethics have their own importance: you publish your repository somewhere over the internet and you are willing to let other people inspect your project and taking part in it, if they wish so.
 
 The value of the `readme.md` file lies exactly in this: it welcomes others to a possibile conversation. The `readme.md` file is a subjective effort in making readable and understandable what you did or what you just started doing.
 
-How does this happen? Here some common actions you can do using git:
+*How does this happen*? Here some common actions you can do using git:
 * `commit` (one or several changes you made on your files, gathered together and ready to be sent up to the server)
 * `push` (a commit to the server)
 * `pull` (down from the server the latest updated version of a repository project)
 
-And specifically for collaborate on a project with other people (it might be yours or you might want to contribute to it):
+And specifically, for collaborate on a project with other people:
 * `fork` (a project repository→cloning it to your git profile in order to have a separated identical copy on which you can work without creating problems with the “original” one)
 * `pull request` (a way to ask to the user who made the original repo you are collaborating on, if your changes are okay or not)
 * `open an issues` (tracking and solving bugs found throughout the repo you are using)
+
+This choice in the verbs to perform actions and interact, through the system, with other contributors, might result at first a bit intimidating: but after a couple of times it gives the opposite feeling, one of clarity and self-confidence in one’s own action.
+
+You forked this repository and it is still everything under control even in the scary case you were about to screw up the whole project, since your were working on your personal copy of that code. `Pull requests` and `issues` are much more effective for a back and forth dialogue than for a simple exchange of new (improved) code. Github instills a certain dose of confidence in the horizontality of such tools—you can either reach out your code buddy or an important developer you admire who’s working at google.
+
+Make sure your `readme.md` file inspires this kind of openness, not necessarily in the statements you are posing, but in the underlying sensation one might have while reading it. Being clear in the kind of resonance that you’d like to have with the community will help you in establishing the type of interaction you’ll be able to receive back, later on.
 
 
 # 3. Peer production
