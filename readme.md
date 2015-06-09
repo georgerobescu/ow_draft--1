@@ -80,7 +80,7 @@ Whenever you make changes to your project, it’s good practice to `commit` thos
 
 *How can you help to contribute on someone else’s project?*
 
-1. Make sure you are logged in on one of the many services which let share git-repositories online (e.g. github, bitbucket).
+1. Make sure you are logged in on one of the many services which let you share git-repositories online (e.g. github, bitbucket).
 2. Find a repository which you like.
 3. Click on the `fork` button; in this way a copy (duplicate) of the repository will be created inside your own profile and you can immediately start to work on it (the content of the repository has been `pulled` down to your own `git`profile).
 4. When you are done with the changes, just `push` it back to the master repository (the original source from which you `forked` it) and ask for a `pull request` session. Other people (*users?*) involved in the repository (from the original creator of the repository to other contributors who forked the project as well) will receive a notification.
@@ -90,15 +90,16 @@ It’s then a matter of discussing those changes in the `issues` section of the 
 Peer production between disparate users happens, instead, in the `pull request` section. After having submitted a new feature to the main project you’re contributing, just whistle to the project manager you’d like to discuss something you made: a back and forth collaboration between the two parts will start (and ideally more people can enter the discussion).
 
 Some people use the `pull request` feature to send themselves things to review:
+
 1. open a new `pull request` at the end of the day before going to bed
 2. wake up the day after early in the morning, and while checking your email, read the notification you sent to yourself 6-8 hours before
 3. go back to work and complete the request
 
 A technique like this, let someone almost completely abstract her himself from the reality of working alone on a project, gaining a rather new magic level of interaction between two temporal-based version of her himself.
 
-Conversely, the same feature can be intensely used to debate if there’s still one original creator of the project: what happen when the contributors take more and more voice in the discourse of it? How does the original creator feel like, especially when he she moved to the position of project manager? Does she he take the role of the Art Director or of the janitor? Since she he’s still in charge of deciding which `pull requests` to accept and to `merge` to the master project and which not, but at the same time has to possibly manage a mountain of `pull requests` because the project got quite some popularity, where does he she position him herself?
+Conversely, the same feature can be intensely used to debate if there’s still one original creator of the project: what happen when the contributors take more and more voice in the discourse of it? How does the original creator feel like, especially when he she moved to the position of project manager? Does she he take the role of the Art Director or of the janitor? Since she he’s still in charge of deciding which `pull requests` to accept and to `merge` to the master project and which not, but at the same time has to possibly manage a mountain of other `pull requests` because the project got quite some popularity, where does he she position him herself?
 
-It is maybe here that the `readme.md` file becomes once again valuable in expressing a clear position on how you prefer to lead the project. The tools are there to keep the processes go smoothly, but you decide on which intensity keep going on.
+It is maybe here that the `readme.md` file becomes once again valuable in expressing a clear position on how you prefer to lead the project. The tools are there to keep the processes go smoothly, but you decide on which intensity to keep going.
 
 ## 4. Transparency
 
