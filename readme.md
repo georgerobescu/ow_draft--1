@@ -11,7 +11,7 @@ This `readme.md` file wants to delineate not how to outline a `readme.md` fileâ€
 Contents:
 
 1. [Ethics](#ethics)
-2. [Participation](#participation)
+2. [Participation](#2.participation)
 3. Peer production
 4. Transparency
 5. Maintenance Work
