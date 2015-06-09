@@ -14,7 +14,7 @@ Contents:
 2. [Participation](#2-participation)
 3. [Peer production](#3-peer-production)
 4. [Transparency](#4-transparency)
-5. [Maintenance Work](# 5-maintenance-work)
+5. [Maintenance Work](#5-maintenance-work)
 
 ## 1. Ethics
 
