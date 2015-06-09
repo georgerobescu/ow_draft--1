@@ -125,4 +125,4 @@ Putting at disposal your code means you have to triply take care of it:
 
 Now.
 
-Clear on your mind: don’t make sociality winning over productivity and don’t make productivity winning over sociality. Don’t think about the market; think about the permanent immanent movement aiming slightly towards up. Keep that thing moving on.
+Clear on your mind: don’t make sociality winning over productivity and don’t make productivity winning over sociality. Don’t think about the market; think about the permanent immanent movement aiming slightly upwards. Keep that thing moving on.
