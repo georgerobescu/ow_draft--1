@@ -4,7 +4,7 @@
 
 ## 0. Intro
 
-This `readme.md` file wants to delineate not how to outline a `readme.md` file—that changes on a basis per basis project—, but rather what does such file represent. It is, in fact, your way to interact with other people on a platform like github. It is, in fact, a way to establish your identity as a worker, amongst other workers.
+This `readme.md` file wants to delineate not how to outline a `readme.md` file—that changes on a basis per basis project—, but rather what does such file represent. It is, in fact, your way to interact with other people on a platform like [github.com](www.github.com). It is, in fact, a way to establish your identity as a worker, amongst other workers.
 
 Such artefact connects you with a larger network of people, machines, and materials. Therefore, it might be useful to reposition the `readme.md` file into a broader context of relations, instead of just conceive it as a mere informational working document.
 
@@ -23,7 +23,7 @@ Contents:
 Create a new `readme.md` file in which you outline the intentions and objectives of the repository:
 * What’s the aim of the project? Are you forking someone else project—thus supposedly improving it—or did you create a fresh new repo?
 * How do you expect to use this code? 
-* Why are you sharing it over on github? Is there a desire of being part of the/a community or is it simply a backup plan? Or, rather, is it just that you connect using the `git`version control system to github so strongly that you think it’s not possible to use solely `git`on your local machine?
+* Why are you sharing it over on github? Is there a desire of being part of the/a community or is it simply a backup plan? Or, rather, is it just that you connect using the `git` version control system to github so strongly that you think it’s not possible to use solely `git` on your local machine?
 
 For now, adding a simple description (one-liner!) of the repository is enough. Over time, and especially when you will `push` the final `commit` to at least reach the version 1.0 of the project, you’ll have (a) enough material, (b) hopefully a clearer idea of its purposes and (c) a bit more time to invest in the explanation and/or documentation of the repository.
 
@@ -37,14 +37,14 @@ Depending on your personal reality, you’ll reply to the above questions in a p
 * do I feel the obligation to share, improve and take part in a general (and particular) discourse or in many? (e.g. forking cool projects that I like in order to improve them and spread them in my circles; feeling the right to take as much free code as possible and use it in my own retributed projects without ethical consequences, since it has been put out there and nobody will ever know).
 * what are the dynamics of these communities and more specifically of these artefacts, tools, and means of productions?
 
-This is the realm of the *ethics*: from the moment you delineate your first words into the `readme.md` file, you assume a particular position and therefore contribute to the place where you published such mentioned repository in a specific manner. Outlining the `readme.md` file is the first act to enter the discussion in which other contributors are taking part. This place of discussion is the working place. And it is a working place also when you are developing your own personal projects in your free time mostly for your own interest. The `readme.md` file, hence, becomes the first form of identity able to mediate your work with the interests of other people hanging out in a working environment like [github.com](github.com).
+This is the realm of the *ethics*: from the moment you delineate your first words into the `readme.md` file, you assume a particular position and therefore contribute to the place where you published such mentioned repository in a specific manner. Outlining the `readme.md` file is the first act to enter the discussion in which other contributors are taking part. This place of discussion is the working place. And it is a working place also when you are developing your own personal projects in your free time mostly for your own interests. The `readme.md` file, hence, becomes the first form of identity able to mediate your work with the interests of other people hanging out in a working environment like [github.com](github.com).
 
 
 ## 2. Participation
 
 The `readme.md` file is a personal statement about the work that you’re doing, and it positions itself inside a broader space of actions (e.g. the politics of a community).
 
-Depending on your own interests and needs, it might be that you’re working on a personal project just on your own or, on the other side, you are collaborating on someone else’s project—which at this point might be considered solely initiated by this someone else, but since the many contributions by other different enthusiastic people, not anymore his *own thing*; it depends.
+Depending on your own interests and needs, it might be that you’re working on a personal project just on your own or, on the other side, you might be collaborating on someone else’s project—which at this point could be considered solely initiated by this someone else, but since the many contributions by other different enthusiastic people, not anymore his *own thing*; it depends.
 
 This passage marks a move from a personal space of action and connected morality, to a broader stage in which ethics have their own importance: you publish your repository somewhere over the internet and you are willing to let other people inspect your project and taking part in it, if they wish so.
 
@@ -56,15 +56,15 @@ The value of the `readme.md` file lies exactly in this: it welcomes others to a 
 * `pull` (down from the server the latest updated version of a repository project)
 
 And specifically, for collaborate on a project with other people:
-* `fork` (a project repository→cloning it to your `git`profile in order to have a separated identical copy on which you can work without creating problems with the “original” one)
+* `fork` (a project repository→cloning it to your own `git` profile in order to have a separated identical copy on which you can work without creating problems with the “original” one)
 * `pull request` (a way to ask to the user who made the original repo you are collaborating on, if your changes are okay or not)
 * `open an issues` (tracking and solving bugs found throughout the repo you are using)
 
-The words chosen for the verbs to perform actions and interact, through the system, with other contributors, might result at first a bit intimidating: but after a couple of times it gives the opposite feeling, one of clarity and self-confidence in one’s own action.
+The words chosen for the verbs to perform these actions and interact, through the system, with other contributors, might result at first a bit intimidating. After a couple of times, anyway, they will give the opposite feeling, one of clarity and self-confidence in one’s own actions.
 
 You `forked` this repository and it is still everything under control even in the scary case you were about to screw up the whole thing, since your were working on your personal copy of that project. `Pull requests` and `issues` are much more effective for a back and forth dialogue than for a simple exchange of new (improved) code. Github instills a certain dose of confidence in the horizontality of such tools—you can either reach out your code buddy or an important developer you admire who’s working at google—without the same possible intimidation that there could be through email or even on twitter. One reason for this is the easiness with which you can talk about something with someone, while editing it at the same time. It’s like being around the same table and play with modeling clay together.
 
-Make sure your `readme.md` file inspires this kind of openness, not necessarily in the statements you are posing, but in the underlying sensation one might have while reading it. Being clear in the kind of resonance that you’d like to have with the community will help you in establishing the type of interaction you’ll be able to receive back, later on.
+Make sure your `readme.md` file inspires this kind of openness, not necessarily in the statements you are posing, but in the underlying sensation one might have while reading it. Being clear in the kind of resonance that you’d like to have with the community will help you in establishing the type of interaction you will receive back, later on.
 
 
 # 3. Peer production
