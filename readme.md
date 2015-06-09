@@ -92,21 +92,19 @@ In designing a better system to remotely collaborate on code-based project, git 
 “Add a comment to your commit” might seem still too friendly, meaning an open-ended question, which could turn into a field of experimental poetry or lazy vagueness.
 But that commit goes up on your commit history and will stay there forever, unless you’re gonna delete the whole repository.
 
-So how does one deal with? Are there any specific writing style, at least suggested ones, to better comply with the tracking system?
+So how does one deal with it? Are there any specific writing style, at least suggested ones, to better comply with the tracking system?
 
 Some questions:
 * Is it better to capitalise the first letter of the first word of the sentence or not?
 * Do you use present tense or past tense (“fix a typo” or “Fixed a typo”)?
 
-Both simple points are mostly a matter of the people you are working with in a specific repository, or, even better, just up to you if the project is one of your personal ones. Then, anyway, deciding upon a specific style will enhance your way of working. How would you react in reading, after a couple of days, that you “Fixed a typo” and now there is still a bug due to that edit? Would it not be better if, instead, you would have opted for the “fix a typo”, for the here and now? In doing so, all the future problems might be seen as still in the realm of possibilities, since the present tense gives a feeling of an active ongoing project, not of an action done and archived in the past.
+Both simple points are mostly a matter of the people you are working with in a specific repository, or, even better, just up to you if the project is one of your personal ones. Then, anyway, deciding upon a specific style will enhance your way of working. How would you react in reading, after a couple of days, that you “Fixed a typo” and now there is still a bug due to that edit? Would it not be better if, instead, you would have opted for the “fix a typo”, for the here and now? In doing so, all the future problems might still be seen as in the realm of possibilities, since the present tense gives a feeling of an active ongoing project, not of an action done and archived in the past.
 
-As you’re building a micro public space, what’s your policy on the element of discoverability and surprise? Though ornamenting a readme file on github with some ascii art is not a smart choice, probably, since it’s the first text you see when you open the project page, other techniques such disseminating some of your other working file with small ascii art drawings (such as the `style.css` file), might result in an act of pleasure for the ones stumbling on them.
+As you’re building a micro public space, what’s your policy on the element of discoverability and surprise? Though ornamenting a readme file on github in some way is not the smartest of choices, probably, since it’s the first text you see when you open up the project page, other techniques like disseminating in some of your other working file small ascii art drawings (such as in the `style.css` file), might result in an act of pleasure for the ones stumbling upon it.
 
-## 5.
+Keeping a rhythm within your project makes visibile certain patterns: how much time you commit to your repository and what’s your level of health about it. Meaning, `have you ever curse inside the comment part of one of your commit?` That’s an example. Another sign is the level of responsiveness you are able to keep up in replying to open `issues` and `pull request`. Being transparent is a sign of showing up and being present when it’s needed, not of sharing also the most useless piece of personal annotation.
 
-
-
-
+Maintaining well-defined purposes on your `readme.md` and adopting pro-active behaviours when people start to play with your code is a nice way to back up your credibility and self-assurance on the projects you take on.
 
 ## 6. Maintenance Work
 
