@@ -4,7 +4,7 @@
 
 ## 0. Intro
 
-This `readme.md` file wants to delineate not how to outline a `readme.md` file—that changes on a basis per basis project—, but rather what does such file represent. It is, in fact, your way to interact with other people on a platform like [github.com](www.github.com). It is, in fact, a way to establish your identity as a worker, amongst other workers.
+This `readme.md` file wants to delineate not how to outline a `readme.md` file—that changes on a basis per basis project—, but rather what does such file represent. It is, in fact, your way to interact with other people on a platform like [github.com](https://github.com). It is, in fact, a way to establish your identity as a worker, amongst other workers.
 
 Such artefact connects you with a larger network of people, machines, and materials. Therefore, it might be useful to reposition the `readme.md` file into a broader context of relations, instead of just conceive it as a mere informational working document.
 
@@ -37,7 +37,7 @@ Depending on your personal reality, you’ll reply to the above questions in a p
 * Do I feel the obligation to share, improve and take part in a general (and particular) discourse or in many? (e.g. forking cool projects that I like in order to improve them and spread them in my circles; feeling the right to take as much free code as possible and use it in my own retributed projects without ethical consequences, since it has been put out there and nobody will ever know).
 * What are the dynamics of these communities and more specifically of these artefacts, tools, and means of productions?
 
-This is the realm of the *ethics*: from the moment you delineate your first words into the `readme.md` file, you assume a particular position and therefore contribute to the place where you published such mentioned repository in a specific manner. Outlining the `readme.md` file is the first act to enter the discussion in which other contributors are taking part. This place of discussion is the working place. And it is a working place also when you are developing your own personal projects in your free time mostly for your own interests. The `readme.md` file, hence, becomes the first form of identity able to mediate your work with the interests of other people hanging out in a working environment like [github.com](github.com).
+This is the realm of the *ethics*: from the moment you delineate your first words into the `readme.md` file, you assume a particular position and therefore contribute to the place where you published such mentioned repository in a specific manner. Outlining the `readme.md` file is the first act to enter the discussion in which other contributors are taking part. This place of discussion is the working place. And it is a working place also when you are developing your own personal projects in your free time mostly for your own interests. The `readme.md` file, hence, becomes the first form of identity able to mediate your work with the interests of other people hanging out in a working environment like [github.com](https://github.com).
 
 
 ## 2. Participation
