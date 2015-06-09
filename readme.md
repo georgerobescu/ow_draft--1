@@ -106,7 +106,7 @@ Keeping a rhythm within your project makes visibile certain patterns: how much t
 
 Maintaining well-defined purposes on your `readme.md` and adopting pro-active behaviours when people start to play with your code is a nice way to back up your credibility and self-assurance on the projects you take on.
 
-## 6. Maintenance Work
+## 5. Maintenance Work
 
 
 
