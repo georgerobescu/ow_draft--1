@@ -100,7 +100,7 @@ A technique like this, let someone almost completely abstract her himself from t
 
 Conversely, the same feature can be intensely used to debate if there’s still one original creator of the project: what happen when the contributors take more and more voice in the discourse of it? How does the original creator feel like, especially when he she moved to the position of project manager? Does she he take the role of the Art Director or of the janitor? Since she he’s still in charge of deciding which `pull requests` to accept and to `merge` to the master project and which not, but at the same time has to possibly manage a mountain of `pull requests` because the project got quite some popularity, where does he she position him herself?
 
-It is maybe here that the `readme.md` file becomes once again valuable in expressing a clear position on how you prefer to lead the project.
+It is maybe here that the `readme.md` file becomes once again valuable in expressing a clear position on how you prefer to lead the project. The tools are there to keep the processes go smoothly, but you decide on which intensity keep going on.
 
 ## 4. Transparency
 
