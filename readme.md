@@ -76,8 +76,6 @@ In this sense, usually the first file that you create and then `commit` to the r
 
 Whenever you make changes to your project, it’s good practice to `commit` those edits to `git`(and often consequently to github), in order to have a log of what has been done up until that point.
 
-This process was initially born for collaboratively purposes (to avoid miscommunication and mistakes between several people working remotely), but it has been adopted also as a way to document one’s own personal working process.
-
 > I’m doing this, done, commit; I’m doing this, done, commit; *rhythm*
 
 *How can you help to contribute on someone else’s project?*
