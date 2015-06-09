@@ -10,13 +10,13 @@ This `readme.md` file wants to delineate not how to outline a `readme.md` file�
 
 Contents:
 
-1. Ethics
+1. [Ethics](#ethics)
 2. Participation
 3. Peer production
 4. Transparency
 5. Maintenance Work
 
-## 1. Ethics
+## Ethics
 
 Create a new `readme.md` file in which you outline the intentions and objectives of the repository:
 * What’s the aim of the project? Are you forking someone else project—thus supposedly improving it—or did you create a fresh new repo?
