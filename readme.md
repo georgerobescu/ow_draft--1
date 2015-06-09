@@ -4,6 +4,17 @@
 
 ## 0. Intro
 
+How important is it to give the same tools to a stranger in order to talk with him, if not at the same level, at least with the same materials?
+
+This `readme.md` file wants to delineate not how to outline a `readme.md` file—that changes on a basis per basis project—, but rather what does such file represent. It is, in fact, your way to interact with other people on a platform like github. It is, in fact, a way to establish your identity as a worker, amongst other workers.
+
+Contents:
+1. [Ethics](##1.Ethics)
+2. Participation
+3. Peer production
+4. Transparency
+5. Maintenance Work
+
 ## 1. Ethics
 
 Create a new `readme.md` file in which you outline the intentions and objectives of the repository:
