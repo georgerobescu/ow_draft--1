@@ -4,9 +4,9 @@
 
 ## 0. Intro
 
-How important is it to give the same tools to a stranger in order to talk with him, if not at the same level, at least with the same materials?
-
 This `readme.md` file wants to delineate not how to outline a `readme.md` file—that changes on a basis per basis project—, but rather what does such file represent. It is, in fact, your way to interact with other people on a platform like github. It is, in fact, a way to establish your identity as a worker, amongst other workers.
+
+Such artefact connects you with a larger network of people, machines, and materials. Therefore, it might be useful to reposition the `readme.md` file into a broader context of relations, instead of just conceive it as a mere informational working document.
 
 Contents:
 
@@ -14,7 +14,7 @@ Contents:
 2. [Participation](#2-participation)
 3. [Peer production](#3-peer-production)
 4. [Transparency](#4-transparency)
-5. [Maintenance Work](#5-maintenance-work)
+5. [Maintenance Work](# 5-maintenance-work)
 
 ## 1. Ethics
 
