@@ -8,6 +8,8 @@ This `readme.md` file wants to delineate not how to outline a `readme.md` fileâ€
 
 Such artefact connects you with a larger network of people, machines, and materials. Therefore, it might be useful to reposition the `readme.md` file into a broader context of relations, instead of just conceive it as a mere informational working document.
 
+/ * * * /
+
 Contents:
 
 1. [Ethics](#1-ethics)
