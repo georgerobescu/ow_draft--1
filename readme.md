@@ -128,9 +128,9 @@ Maintaining well-defined purposes on your `readme.md` file and adopting pro-acti
 
 Setting up a project and keep it in order, to make it work smoothly, drains your energies. Even more if you have to add a layer of sociality on top of it and let your own small baby go in someone else’s hands. It hurts and it’s rewarding.
 
-Think of the `readme.md` file as the blueprint of your house, its internal rules, and the way you live in it when you are on your own, with friends or people you met the other day.
+Think of the `readme.md` file as the blueprint of your house, its internal rules, and the way would you live in it when you are on your own, with your friends or with people you met the other day.
 
-Moreover, it needs a constant maintenance work. Keep it tidy and up-to-date. Change your policies over time when the circumstances ask for it. Don’t be ashamed to undue what you wrote last week, a manifesto on the internet is stronger when it moves. You are not deceiving anyone, since your commit history speaks clear for your actions: did you say something completely different a month ago which now is causing quite some problems to a few people using your project? It’s as simple as go back in time and check how that same paragraph was formulated, or why you deleted it abruptly.
+Moreover, it needs a constant maintenance work. Keep it tidy and up-to-date. Change your policies over time when the circumstances ask for it. Don’t be ashamed to undue what you wrote last week, a manifesto on the internet is stronger when it moves. You are not deceiving anyone, since your commit history speaks clear for your actions: did you say something completely different a month ago which now is causing quite some problems to a few people using your project? It’s as simple as going back in time and check how that same paragraph was formulated, or why you deleted it abruptly.
 
 Putting at disposal your code means you have to take care of it three times more:
 1. make it readable for the outside
