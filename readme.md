@@ -23,9 +23,9 @@ Contents:
 Create a new `readme.md` file in which you outline the intentions and objectives of the repository:
 * What’s the aim of the project? Are you forking someone else project—thus supposedly improving it—or did you create a fresh new repo?
 * How do you expect to use this code? 
-* Why are you sharing it over on github? Is there a desire of being part of the/a community or is it simply a backup plan? Or, rather, is it just that you connect using the git version control system to github so strongly that you think it’s not possible to use solely git on your local machine?
+* Why are you sharing it over on github? Is there a desire of being part of the/a community or is it simply a backup plan? Or, rather, is it just that you connect using the `git`version control system to github so strongly that you think it’s not possible to use solely `git`on your local machine?
 
-For now, adding a simple description (one-liner!) of the repository is enough. Over time, and especially when you will push the final commit to at least reach the version 1.0 of the project, you’ll have (a) enough material, (b) hopefully a clearer idea of its purposes and (c) a bit more time to invest in the explanation and/or documentation of the repository.
+For now, adding a simple description (one-liner!) of the repository is enough. Over time, and especially when you will `push` the final `commit` to at least reach the version 1.0 of the project, you’ll have (a) enough material, (b) hopefully a clearer idea of its purposes and (c) a bit more time to invest in the explanation and/or documentation of the repository.
 
 This first step of creating and taking care of the `readme.md` file brings with itself different implications:
 * for whom am I working and why do I want to document all this?
@@ -52,11 +52,11 @@ The value of the `readme.md` file lies exactly in this: it welcomes others to a 
 
 *How does this happen*? Here some common actions you can do using git:
 * `commit` (one or several changes you made on your files, gathered together and ready to be sent up to the server)
-* `push` (up a commit to the server)
+* `push` (up a `commit` to the server)
 * `pull` (down from the server the latest updated version of a repository project)
 
 And specifically, for collaborate on a project with other people:
-* `fork` (a project repository→cloning it to your git profile in order to have a separated identical copy on which you can work without creating problems with the “original” one)
+* `fork` (a project repository→cloning it to your `git`profile in order to have a separated identical copy on which you can work without creating problems with the “original” one)
 * `pull request` (a way to ask to the user who made the original repo you are collaborating on, if your changes are okay or not)
 * `open an issues` (tracking and solving bugs found throughout the repo you are using)
 
@@ -72,9 +72,9 @@ Make sure your `readme.md` file inspires this kind of openness, not necessarily 
 `git` is a system that works as an invisibile set of files inside the folder which you decide to use as your project repository.
 What it does is to keep track of every change you implement to the files living in that folder: it’s like an invisible layer of pre-punched holes in your timecard. In fact, it’s you the one who decides when to really mark a change, or a series of changes, to the project: what you did, then, is a `commit` to the repository.
 
-In this sense, usually the first file that you create and then commit to the repository is the `readme.md` file—it’s not necessary but it usually helps you to at least give a brief description of what’s going on in that repo.
+In this sense, usually the first file that you create and then `commit` to the repository is the `readme.md` file—it’s not necessary but it usually helps you to at least give a brief description of what’s going on in that repo.
 
-Whenever you make changes to your project, it’s good practice to commit those edits to git (and often consequently to github), in order to have a log of what has been done up until that point.
+Whenever you make changes to your project, it’s good practice to `commit` those edits to `git`(and often consequently to github), in order to have a log of what has been done up until that point.
 
 This process was initially born for collaboratively purposes (to avoid miscommunication and mistakes between several people working remotely), but it has been adopted also as a way to document one’s own personal working process.
 
@@ -84,8 +84,8 @@ This process was initially born for collaboratively purposes (to avoid miscommun
 
 1. Make sure you are logged in on one of the many services which let share git-repositories online (e.g. github, bitbucket).
 2. Find a repository which you like.
-3. Click on the `fork` button; in this way a copy (duplicate) of the repository will be created inside your own profile and you can immediately start to work on it (the content of the repository has been `pulled` down to your own git profile).
-4. When you are done with the changes, just `push` it back to the master repository (the original source from which you `forked` it) and ask for a `pull to request` session. Other people (*users?*) involved in the repository (from the original creator of the repository to other contributors who forked the project as well) will receive a notification.
+3. Click on the `fork` button; in this way a copy (duplicate) of the repository will be created inside your own profile and you can immediately start to work on it (the content of the repository has been `pulled` down to your own `git`profile).
+4. When you are done with the changes, just `push` it back to the master repository (the original source from which you `forked` it) and ask for a `pull request` session. Other people (*users?*) involved in the repository (from the original creator of the repository to other contributors who forked the project as well) will receive a notification.
 
 It’s then a matter of discussing those changes in the `issues` section of the repository. Exactly here, peers dynamics take place.
 
@@ -104,9 +104,9 @@ It is maybe here that the `readme.md` file becomes once again valuable in expres
 
 ## 4. Transparency
 
-In designing a better system to remotely collaborate on code-based project, git for sure emphasises on asking for clarity and preciseness on the side of the user.
+In designing a better system to remotely collaborate on code-based project, `git`for sure emphasises on asking for clarity and preciseness on the side of the user.
 “Add a comment to your commit” might still seem too friendly, meaning an open-ended question, which could turn into a field of experimental poetry or lazy vagueness.
-But that commit goes up on your commit history and will stay there forever, unless you’re gonna delete the whole repository.
+But that `commit` goes up on your `commit` history and will stay there forever, unless you’re gonna delete the whole repository.
 
 So how does one deal with it? Are there any specific writing style, at least suggested ones, to better comply with the tracking system?
 
@@ -118,7 +118,7 @@ Both points are mostly a matter of the people you are working with in a specific
 
 As you’re building a micro public space, what’s your policy on the element of discoverability and surprise? Though ornamenting a `readme.md` file on github is probably not the smartest of choices, since it’s the first text you see when you open up the project page, other techniques like disseminating in some of your other working file small ascii art drawings (such as in the `style.css` file), might result in an act of pleasure for the ones stumbling upon it.
 
-Keeping a rhythm within your project makes visibile certain patterns: how much time you commit to your repository and what’s your level of health about it. Meaning, `have you ever curse inside the comment section of one of your commit?` That’s an example. Another sign is the level of responsiveness you are able to keep up in replying to open `issues` and `pull request`. Being transparent is a sign of showing up and being present when it’s needed, not of sharing also the most useless piece of personal annotation (cfr. “for the sake of it”).
+Keeping a rhythm within your project makes visibile certain patterns: how much time you `commit` to your repository and what’s your level of health about it. Meaning, `have you ever curse inside the comment section of one of your commit?` That’s an example. Another sign is the level of responsiveness you are able to keep up in replying to open `issues` and `pull request`. Being transparent is a sign of showing up and being present when it’s needed, not of sharing also the most useless piece of personal annotation (cfr. “for the sake of it”).
 
 Maintaining well-defined purposes on your `readme.md` file and adopting pro-active behaviours when people start to play with your code is a nice way to back up your credibility and self-assurance on the projects you take on.
 
@@ -130,7 +130,7 @@ Setting up a project and keep it in order, to make it work smoothly, drains your
 
 Think of the `readme.md` file as the blueprint of your house, its internal rules, and the way would you live in it when you are on your own, with your friends or with people you met the other day.
 
-Moreover, it needs a constant maintenance work. Keep it tidy and up-to-date. Change your policies over time when the circumstances ask for it. Don’t be ashamed to undue what you wrote last week, a manifesto on the internet is stronger when it moves. You are not deceiving anyone, since your commit history speaks clear for your actions: did you say something completely different a month ago which now is causing quite some problems to a few people using your project? It’s as simple as going back in time and check how that same paragraph was formulated, or why you deleted it abruptly.
+Moreover, it needs a constant maintenance work. Keep it tidy and up-to-date. Change your policies over time when the circumstances ask for it. Don’t be ashamed to undue what you wrote last week, a manifesto on the internet is stronger when it moves. You are not deceiving anyone, since your `commit` history speaks clear for your actions: did you say something completely different a month ago which now is causing quite some problems to a few people using your project? It’s as simple as going back in time and check how that same paragraph was formulated, or why you deleted it abruptly.
 
 Putting at disposal your code means you have to take care of it three times more:
 1. make it readable for the outside
