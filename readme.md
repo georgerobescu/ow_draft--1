@@ -44,7 +44,7 @@ This is the realm of the *ethics*: from the moment you delineate your first word
 
 The `readme.md` file is a personal statement about the work that you’re doing, and it positions itself inside a broader space of actions (e.g. the politics of a community).
 
-Depending on your own interests and needs, it might be that you’re working on a personal project just on your own or, on the other side, you are collaborating on someone else’s project—which at this point might be considered solely initiated by this someone else, but since the many contributions by different other enthusiast people, not anymore his *own thing*; it depends.
+Depending on your own interests and needs, it might be that you’re working on a personal project just on your own or, on the other side, you are collaborating on someone else’s project—which at this point might be considered solely initiated by this someone else, but since the many contributions by other different enthusiastic people, not anymore his *own thing*; it depends.
 
 This passage marks a move from a personal space of action and connected morality, to a broader stage in which ethics have their own importance: you publish your repository somewhere over the internet and you are willing to let other people inspect your project and taking part in it, if they wish so.
 
@@ -52,7 +52,7 @@ The value of the `readme.md` file lies exactly in this: it welcomes others to a 
 
 *How does this happen*? Here some common actions you can do using git:
 * `commit` (one or several changes you made on your files, gathered together and ready to be sent up to the server)
-* `push` (a commit to the server)
+* `push` (up a commit to the server)
 * `pull` (down from the server the latest updated version of a repository project)
 
 And specifically, for collaborate on a project with other people:
@@ -60,9 +60,9 @@ And specifically, for collaborate on a project with other people:
 * `pull request` (a way to ask to the user who made the original repo you are collaborating on, if your changes are okay or not)
 * `open an issues` (tracking and solving bugs found throughout the repo you are using)
 
-This choice in the verbs to perform actions and interact, through the system, with other contributors, might result at first a bit intimidating: but after a couple of times it gives the opposite feeling, one of clarity and self-confidence in one’s own action.
+The words chosen for the verbs to perform actions and interact, through the system, with other contributors, might result at first a bit intimidating: but after a couple of times it gives the opposite feeling, one of clarity and self-confidence in one’s own action.
 
-You forked this repository and it is still everything under control even in the scary case you were about to screw up the whole thing, since your were working on your personal copy of that project. `Pull requests` and `issues` are much more effective for a back and forth dialogue than for a simple exchange of new (improved) code. Github instills a certain dose of confidence in the horizontality of such tools—you can either reach out your code buddy or an important developer you admire who’s working at google—without the same possible intimidation that there could be through email or even on twitter. One reason for this is the possibility to more easily talk about something while editing it at the same time. It’s like being around the same table and play with modeling clay together.
+You `forked` this repository and it is still everything under control even in the scary case you were about to screw up the whole thing, since your were working on your personal copy of that project. `Pull requests` and `issues` are much more effective for a back and forth dialogue than for a simple exchange of new (improved) code. Github instills a certain dose of confidence in the horizontality of such tools—you can either reach out your code buddy or an important developer you admire who’s working at google—without the same possible intimidation that there could be through email or even on twitter. One reason for this is the easiness with which you can talk about something with someone, while editing it at the same time. It’s like being around the same table and play with modeling clay together.
 
 Make sure your `readme.md` file inspires this kind of openness, not necessarily in the statements you are posing, but in the underlying sensation one might have while reading it. Being clear in the kind of resonance that you’d like to have with the community will help you in establishing the type of interaction you’ll be able to receive back, later on.
 
@@ -85,22 +85,22 @@ This process was initially born for collaboratively purposes (to avoid miscommun
 1. Make sure you are logged in on one of the many services which let share git-repositories online (e.g. github, bitbucket).
 2. Find a repository which you like.
 3. Click on the `fork` button; in this way a copy (duplicate) of the repository will be created inside your own profile and you can immediately start to work on it (the content of the repository has been `pulled` down to your own git profile).
-4. When you are done with the changes, just `push` it back to the master repository (the original source from which you `forked` it) and ask for a `pull to request` session. Other people (*users?*) involved in the repository (from the original creator of the repository to other contributors who forked the project as well) will receive a notifications.
+4. When you are done with the changes, just `push` it back to the master repository (the original source from which you `forked` it) and ask for a `pull to request` session. Other people (*users?*) involved in the repository (from the original creator of the repository to other contributors who forked the project as well) will receive a notification.
 
-It’s then a matter of discussing those changes in the issues section of the repository. Exactly here, peers dynamics take place.
+It’s then a matter of discussing those changes in the `issues` section of the repository. Exactly here, peers dynamics take place.
 
-Peer production between disparate users happens, instead, in the `pull request` section. After having submitted a new feature to the main project you’re contributing, whistle to the project manager you’d like to discuss something you made: a back and forth collaboration between the two parts will start (and ideally more people can enter the discussion).
+Peer production between disparate users happens, instead, in the `pull request` section. After having submitted a new feature to the main project you’re contributing, just whistle to the project manager you’d like to discuss something you made: a back and forth collaboration between the two parts will start (and ideally more people can enter the discussion).
 
 Some people use the `pull request` feature to send themselves things to review:
-1. open a new pull request at the end of the day before going to bed;
-2. wake up the day after early in the morning, and while checking your email, read the notification you sent to yourself 8-10 hours before;
-3. go back to work and complete the request.
+1. open a new `pull request` at the end of the day before going to bed
+2. wake up the day after early in the morning, and while checking your email, read the notification you sent to yourself 6-8 hours before
+3. go back to work and complete the request
 
-A technique like this, let someone almost completely abstract her himself from the reality of working alone on a project, gaining a rather new magic level of interaction between two temporal-based version of oneself.
+A technique like this, let someone almost completely abstract her himself from the reality of working alone on a project, gaining a rather new magic level of interaction between two temporal-based version of her himself.
 
-Conversely, the same feature can be intensely used to debate if there’s still one original creator of the project: what happen when the contributors take more and more voice in the discourse of it? How does the original creator feel like, especially when he she moved to the position of project manager? Does she he feel like an Art Director or a janitor? Since she he’s still in charge of deciding which pull requests to accept and to merge to the master project and which not, but at the same time has to possibly manage a mountain of pull requests because the project got quite some popularity, where does he she position him herself?
+Conversely, the same feature can be intensely used to debate if there’s still one original creator of the project: what happen when the contributors take more and more voice in the discourse of it? How does the original creator feel like, especially when he she moved to the position of project manager? Does she he take the role of the Art Director or of the janitor? Since she he’s still in charge of deciding which `pull requests` to accept and to `merge` to the master project and which not, but at the same time has to possibly manage a mountain of `pull requests` because the project got quite some popularity, where does he she position him herself?
 
-It is maybe here that the `readme.md` file becomes once again valuable in expressing a clear position on the project.
+It is maybe here that the `readme.md` file becomes once again valuable in expressing a clear position on how you prefer to lead the project.
 
 ## 4. Transparency
 
