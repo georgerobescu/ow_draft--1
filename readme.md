@@ -6,7 +6,7 @@
 
 This `readme.md` file wants to delineate not how to outline a `readme.md` file—that changes on a basis per basis project—, but rather what does such file represent. It is, in fact, your way to interact with other people on a platform like [github.com](https://github.com). It is, in fact, a way to establish your identity as a worker, amongst other workers.
 
-Such artefact connects you with a larger network of people, machines, and materials. Therefore, it might be useful to reposition the `readme.md` file into a broader context of relations, instead of just conceive it as a mere informational working document.
+Such artefact connects you with a larger network of people, machines, and materials. Therefore, it might be useful to reposition the `readme.md` file into a broader context of relations (with your peers, the server and yourself), instead of just conceive it as a mere informational working document.
 
 // § //
 
