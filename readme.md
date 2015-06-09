@@ -108,14 +108,21 @@ Maintaining well-defined purposes on your `readme.md` and adopting pro-active be
 
 ## 5. Maintenance Work
 
+> It is clear, when you clean it, when you take care of it, how shiny it is.
 
+Setting up a project and keep it in order, to make it work smoothly, drains your energies. Even more if you have to add a layer of sociality on top of it and let your own small baby go in someone else’s hands. It hurts and it’s rewarding.
 
+Think of the `readme.md` file as the blueprint of your house, its internal rules, and the way you live in it when you are on your own, with friends or people you met the other day.
 
+Moreover, it needs a constant maintenance work. Keep it tidy and up-to-date. Change your policies over time when the circumstances ask for it. Don’t be ashamed to undue what you wrote last week, a manifesto on the internet is stronger when it moves. You are not deceiving anyone, since your commit history speaks clear for your actions: did you say something completely different a month ago which now is causing quite some problems to a few people using your project? It’s as simple as go back in time and check how that same paragraph was formulated, or why you deleted it abruptly.
 
+Putting at disposal your code means you have to triply take care of it:
+1. make it readable for the outside
+2. being available for changes and collaborations
+3. keep on work on it, it has a user-base now
 
+°_° 
 
+Now.
 
-
-
-
-
+Clear on your mind: don’t make sociality winning over productivity and don’t make productivity winning over sociality. Don’t think about the market; think about the permanent immanent movement aiming slightly towards up. Keep that thing moving on.
