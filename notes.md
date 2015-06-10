@@ -1,6 +1,6 @@
 # ow—draft #1, notes
 
-*Some notes and an attempt to outline the **draft #1** of the project*
+*Some notes and an attempt to outline the __draft #1__ of the project*
 
 * git
 * readme.md
@@ -19,7 +19,7 @@ This mechanism transforms the person using it in a sort of log-keeper, putting h
 
 Hence, the `readme.md` file acts as the point-of-entrance to someone’s project. In it, it is usually delineated the objectives of the repository, how it has been implemented (citing other projects which have been made use of), and often giving an overview of how the *thing* works (if needed). In many instances, there is a personal insight, or more than one, as an addendum.
 
-What I am trying to push with `git`, the `readme.md` file and services like github, is a sort of new self-realisation accomplished thanks to the act of publishing a project in a public website and presenting it through the `readme.md` file. You do exist because you are able to present your project; your project does exist because it has been presented by you. The two elements, creator and artefact, find their space in the general discourse of a site like github through the `readme.md` file.
+What I am trying to push with `git`, the `readme.md` file and services like github, is a sort of new subjectivisation accomplished thanks to the act of publishing a project in a public website and presenting it through the `readme.md` file. You do exist because you are able to present your project; your project does exist because it has been presented by you. The two elements, creator and artefact, find their space in the general discourse of a site like github through the `readme.md` file.
 
 This brings to some scenarios:
 * *One-liner* `readme.md` file→the project is in a temporary phase at best, non-existent at worst.
@@ -34,7 +34,7 @@ I’ll try to stick to it also because I want to expand its boundaries as much a
 
 On a different general level, a website like github represents a new way to show the performativy of a project, and for extension, of the person (or people) behind it.
 
-In a sense, it’s a multifaceted tool to help someone working better (and supposedly more efficiently and with less problems in fixing possible bugs coming up along the way), but at the same time, in keeping track of every action and in asking to the person working on it to externalise what has been done—hypothetically—after each new edit, `git` establishes a form of discipline. I’d called it *self-discipline*, and it works very well with the process of subjectivisation (?) that the act of publishing a project on a code-sharing platform like github ignites.
+In a sense, it’s a multifaceted tool to help someone working better (and supposedly more efficiently and with less problems in fixing possible bugs coming up along the way), but at the same time, in keeping track of every action and in asking to the person working on it to externalise what has been done—hypothetically—after each new edit, `git` establishes a form of discipline. I’d called it *self-discipline*, and it works very well with the process of subjectivisation that the act of publishing a project on a code-sharing platform like github ignites.
 
 To each new commit indeed, corresponds a `timestamp` of the moment in which that action was performed. And whenever you decide is time to push all those edits inside a new `commit`, you are forced to described what you just did in a way that, ideally, summarises quite well the new changes.
 
@@ -51,10 +51,10 @@ Would you ever add a smiley at the end of a business email to enhance or shift t
 
 It’s strong on me the parallel between ascii art and tumblr, especially its NSFW label, which is used for specific content which may not be suitable in a working environment.
 
-First, why would someone go checking her his tumblr or any tumblr while on a working environment? Sure. What’s the difference between this way of taking a break and going to smoke a cigarette or get up and have a short walk? So this already acknowledges a possible scenario very common when someone works with a computer at her his job and he she is used to check out tumblr during his her leisure time.
+First, why would someone go checking her his tumblr or any tumblr while on a working environment? Sure. What’s the difference between this way of taking a break and going to smoke a cigarette or get up and have a short walk? So, this already acknowledges a possible scenario very common when someone works with a computer at her his job and he she is used to check out tumblr during his her leisure time.
 
-This act of transforming the working environment in a private space—quite quite quite different than going for a pee or a glass of water or some sun or some fresh air—constitutes the common border with the ascii art and the act of irreverence present to both actions. It’s not the act of downloading a torrent or using a p2p tool of any kind, but rather the usage of some ascii art inside it (the .nfo file) to mix all these categories: work/leisure, private/public (I won’t dig into this dichotomy now), through an act of irreverence. Almost a joke?
-It’s like an extra layer of worthiness inside something which may be seen as a leisure time item (e.g. a downloaded film), on top of an act that it’s for sure dispassionate in its being for free. Who does know the exact reasons behind the distribution of copyrighted material for free? Could it be pure laziness as an effect of a specific way of thinking the internet? Or is it a clear statement of not approval on the act of paying, or the copyright model, or the free circulation of stuff on the internet (cfr. first point)?
+Second, the act of transforming the working environment in a private space—quite quite quite different than going for a pee or a glass of water or some sun or some fresh air—constitutes the common border with the ascii art and the act of irreverence present in both actions. It’s not the act of downloading a torrent or using a p2p tool of any kind, but rather the usage of some ascii art inside it (the .nfo file) to mix all these categories: work/leisure, private/public (I won’t dig into this dichotomy now), through an act of irreverence. Almost a joke?
+It’s like an extra layer of worthiness inside something which may be seen as a leisure time item (e.g. a downloaded film), on top of an act that it’s for sure dispassionate in its being for free. Who does know the exact reasons behind the distribution of copyrighted material for free? Could it be pure laziness as an effect of a specific way of thinking the internet? Or is it a clear statement of not approval on the act of paying, or on the copyright model, or on the free circulation of stuff on the internet (cfr. first point)?
 
 *confused at best*
 
@@ -81,12 +81,16 @@ More than the ethical (simply moral?) problematics about the subject, which are 
 
 This is a very active element that can be used to build the culture inside a specific *peer-production* environment (or if you prefer, scene).
 
-Then there is the history of the `commits` for each project and the logic behind it. It can at first be connected to the theme of transparency, an obsessive and modernist idea of order, building history and retrieving informations. This for sure helps in the making of the project: something is not working anymore, just go and check out the history tab on github and spot what you changed—one click and it will bring you back to that position. Good to go again.
+Then, there is the history of the `commits` for each project and the logic behind it. It can at first be connected to the theme of transparency, an obsessive and modernist idea of order, building history and retrieving informations. This for sure helps in the making of the project: something is not working anymore, just go and check out the history tab on github and spot what you changed—one click and it will bring you back to that position. Good to go again.
 
 The creepiness in this `commit history` is not the fact of being able to read at once what has been done by the different people involved in the project, rather how this mechanism imprints itself in the mindset of the people adopting it.
 
 I love it, to be honest. The idea of tracking your process down to each particular choice and change is quite phenomenal. It is much more if you do your work using text, since you can track it down to the single character. But what about this massive accumulation of `commit histories` from all over the world into [github.com](https://github.com)? I cannot yet define it really well, but the fact of contributing with your own shit, self-voluntarily and often time quite excitingly, to one gigantic buck of information it’s sometimes discomforting. It plays very well with the need of order, easily retrievability and sharing of data, often times looked after by many people. A system like this keeps the situation under control, starting from your own reality. You know you can efficiently (but still with crazy projects) contribute your part to the community you (want to) belong to. 
 
-All this it’s already instilling a habit of self-quantification and easily explanation (on command) of everything someone is doing, in a sort of just-in-case attitude. This reinforces an idea of perfectly disciplined worker. That’s what is happening in general on the mainstream internet landscape, see Facebook, Google, Amazon, Apple, etc. Such perfectly disciplined individual is extremely transparent: first of all to himself, then to the big mother who gives him access to the service; he’s self-regulating and efficient; finally, he’s in the reality of the world through his work—how many commits have been pushed to the server and how funny and concise are his readme.md files? How many times will his projects be forked?
+All this it’s already instilling a habit of self-quantification and a propensity to easily give explanations (on command) of everything someone is doing, in a sort of just-in-case attitude. And this reinforces an idea of perfectly disciplined worker. Such perfectly disciplined individual is extremely transparent: first of all to himself, then to the big mother who gives him access to the service; he’s self-regulating and efficient; finally, he’s in the reality of the world through his work—how many commits have been pushed to the server and how funny and concise are his `readme.md` files? How many times will his projects be forked?
 
 Cfr. [designing in the open](http://bradfrost.com/blog/post/designing-in-the-open/)—Brad Forst.
+
+More and more, I realise how the maintenance aspect within a job is, in many cases, a fundamental domain of that profession. Things are going crazy in the tech community because of the tendency to over-complicate tasks or practices which until the day before were perfectly accomplished with less tools, less techniques to help you even more and making you waste less time, and so forth.
+
+What I tried to define as *maintenance work* were those kind of jobs in which you just keep the system running smoothly: housewives, care-taker, street cleaners to name, in a lazy manner, the easiest ones. A system like `git`, nonetheless, makes you aware of different kind of other structures which take place all around you: keep in order your work, yes, but also share it and collaborate on it with other people. So where does end the line of the maintenance work? Did it become a personal asset of one’s own profession, better, of own’s skills? 
