@@ -91,3 +91,14 @@ All this it’s already instilling a habit of self-quantification and a propensi
 
 Cfr. [designing in the open](http://bradfrost.com/blog/post/designing-in-the-open/)—Brad Forst.
 
+Maintenance work is what `git` is all about. Therefore, here lies my interest in exploring it and push it in all kind of directions until some other things become visibile, such as:
+* A portrait of the worker (user?).
+* An analysis of the way collaboration and exchange is performed on a platform which uses git.
+* An exploitation of such tools.
+
+My interest in the maintenance work domain began with the new acknowledged role of the woman as an housewife during the 70s. This brought to a redefinition of the woman as a natural subject (woman=someone who takes care of the house and of the childrens as a natural activity and not a form of different labours)
+
+In that same period a new shift in the economic paradigm happened, with the rising of the cognitive worker (producer and distiller of informations) and a passage from Fordism to Post-Fordism as a production model, at least in many countries of the Western world.
+
+Nowadays, the life of a developer is comprised of prototyping session, production code session, reviews and discussion about it, and overall maintenance of all these artefacts in an intelligible and coherent form. There are for sure teams in which big projects are split down in smaller chunks, but it doesn’t mean that these tasks are not accomplished by each component of that same team.
+
