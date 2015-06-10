@@ -87,12 +87,12 @@ I love it, to be honest. The idea of tracking your process down to each particul
 
 All this it’s instilling a habit of self-quantification and a propensity to easily give explanations (on command) of everything someone is doing, in a sort of just-in-case attitude. And this reinforces an idea of perfectly disciplined worker. Such perfectly disciplined individual is extremely transparent: first of all to himself, then to the big mother who gives him access to the service; he’s self-regulating and efficient; finally, he’s in the reality of the world through his work—how many `commits` have been pushed to the server and how funny and concise are his `readme.md` files? How many times will his projects be `forked`?
 
-Maintenance work is what `git` is all about. Therefore, here lies my interest in exploring it and push it in all kind of directions until some other things become visibile, such as:
-* A portrait of the worker (user?).
-* An analysis of the way collaboration and exchange is performed on a platform which uses git.
+Maintenance work is what `git` is all about. Therefore, here lie my interests in exploring it and push it in all kind of directions until some other things become visibile, such as:
+* A portrait of the worker (user?) (ethics, transparency, subjectivisation, etc.).
+* An analysis of the way collaboration, exchange, and in general peer-production (including making friends) is performed on a platform which uses git.
 * An exploitation of such tools.
 
-My interest in the maintenance work domain began with the new acknowledged role of the woman as an housewife during the 70s. This brought to a redefinition of the woman as a natural subject (woman=someone who takes care of the house and of the children as a natural activity and not as a form of different labours).
+My interest in the maintenance work domain began with the new acknowledged role of the woman as an housewife during the 70s. This brought to a redefinition of the woman as a natural subject (at the time and still now, woman→someone who takes care of the house and of the children as a natural activity and not as a form of mixed labours).
 
 In that same period a new shift in the economic paradigm happened, with the rising of the cognitive worker (producer and distiller of informations) and a passage from Fordism to Post-Fordism as a production model, at least in many countries of the Western world.
 
