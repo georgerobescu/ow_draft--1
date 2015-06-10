@@ -1,6 +1,6 @@
 # ow—draft #1, notes
 
-*Some notes and an attempt to outline the __draft #1__ of the project*
+*Some notes and an attempt to outline the __draft #1__ of the project*.
 
 * git
 * readme.md
@@ -91,6 +91,3 @@ All this it’s already instilling a habit of self-quantification and a propensi
 
 Cfr. [designing in the open](http://bradfrost.com/blog/post/designing-in-the-open/)—Brad Forst.
 
-More and more, I realise how the maintenance aspect within a job is, in many cases, a fundamental domain of that profession. Things are going crazy in the tech community because of the tendency to over-complicate tasks or practices which until the day before were perfectly accomplished with less tools, less techniques to help you even more and making you waste less time, and so forth.
-
-What I tried to define as *maintenance work* were those kind of jobs in which you just keep the system running smoothly: housewives, care-taker, street cleaners to name, in a lazy manner, the easiest ones. A system like `git`, nonetheless, makes you aware of different kind of other structures which take place all around you: keep in order your work, yes, but also share it and collaborate on it with other people. So where does end the line of the maintenance work? Did it become a personal asset of one’s own profession, better, of own’s skills? 
