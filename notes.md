@@ -90,12 +90,3 @@ I love it, to be honest. The idea of tracking your process down to each particul
 All this it’s already instilling a habit of self-quantification and easily explanation (on command) of everything someone is doing, in a sort of just-in-case attitude. This reinforces an idea of perfectly disciplined worker. That’s what is happening in general on the mainstream internet landscape, see Facebook, Google, Amazon, Apple, etc. Such perfectly disciplined individual is extremely transparent: first of all to himself, then to the big mother who gives him access to the service; he’s self-regulating and efficient; finally, he’s in the reality of the world through his work—how many commits have been pushed to the server and how funny and concise are his readme.md files? How many times will his projects be forked?
 
 Cfr. [designing in the open](http://bradfrost.com/blog/post/designing-in-the-open/)—Brad Forst.
-
-* * *
-
-Political subjectivization, Jacques Rancière in *Politics, Identification, and Subjectivization*—1992, [source](http://anderspaulin.com/index.php?/text/what-is-subjectivization-ranciere-excerpt/):
-> In sum, the logic of political subjectivization, of emancipation, is a heterology, a logic of the other, for three main reasons. First, it is never the simple assertion of an identity; it is always, at the same time, the denial of an identity given by an other, given by the ruling order of policy. Policy is about “right” names, names that pin people down to their place and work. Politics is about “wrong” names-misnomers that articulate a gap and connect with a wrong. 
-> Second, it is a demonstration, and a demonstration always supposes an other, even if that other refuses evidence or argument. It is the staging of a common place that is not a place for a dialogue or a search for a consensus in Habermasian fashion. There is no consensus, no undamaged communication, no settlement of a wrong. But there is a polemical commonplace for the handling of a wrong and the demonstration of equality. 
-> Third, the logic of subjectivization always entails an impossible identification.
-
-*I’m still quite unsure of having understand what really is a process of subjectivization, better keep it aside for now.*
