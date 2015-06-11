@@ -29,7 +29,7 @@ For now, adding a simple description (one-liner!) of the repository is enough. O
 
 This first step of creating and taking care of the `readme.md` file brings with itself different implications:
 * For whom am I working and why do I want to document all this?
-* Who’s watching me doing this? is it for this reason that I am doing it?
+* Who’s watching me doing this? Is it for this reason that I am doing it?
 * Do I have and/or do I expect an audience?
 
 Depending on your personal reality, you’ll reply to the above questions in a particular way. There after, some other points might be:
@@ -82,7 +82,7 @@ Whenever you make changes to your project, it’s good practice to `commit` thos
 
 1. Make sure you are logged in on one of the many services which let you share git-repositories online (e.g. github, bitbucket).
 2. Find a repository which you like.
-3. Click on the `fork` button; in this way a copy (duplicate) of the repository will be created inside your own profile and you can immediately start to work on it (the content of the repository has been `pulled` down to your own `git`profile).
+3. Click on the `fork` button; in this way a copy (duplicate) of the repository will be created inside your own profile and you can immediately start to work on it (the content of the repository has been `pulled` down to your own `git` profile).
 4. When you are done with the changes, just `push` it back to the master repository (the original source from which you `forked` it) and ask for a `pull request` session. Other people (*users?*) involved in the repository (from the original creator of the repository to other contributors who forked the project as well) will receive a notification.
 
 It’s then a matter of discussing those changes in the `issues` section of the repository. Exactly here, peers dynamics take place.
@@ -103,13 +103,14 @@ It is maybe here that the `readme.md` file becomes once again valuable in expres
 
 ## 4. Transparency
 
-In designing a better system to remotely collaborate on code-based project, `git`for sure emphasises on asking for clarity and preciseness on the side of the user.
+In designing a better system to remotely collaborate on code-based project, `git` for sure emphasises on asking for clarity and preciseness on the side of the user.
 “Add a comment to your commit” might still seem too friendly, meaning an open-ended question, which could turn into a field of experimental poetry or lazy vagueness.
 But that `commit` goes up on your `commit history` and will stay there forever, unless you’re gonna delete the whole repository.
 
 So how does one deal with it? Are there any specific writing style, at least suggested ones, to better comply with the tracking system?
 
 Some questions:
+
 * Is it better to capitalise the first letter of the first word of the sentence or not?
 * Do you use present tense or past tense (e.g. “fix a typo” or “Fixed a typo”)?
 
