@@ -8,4 +8,5 @@ As digital labour is advancing and self-tracking technologies are becoming integ
 
 *ow_draft--1* is a text part manifesto and part self-help tips, which gives a sketch of the git and github.com technologies. git is a version-control system: you set it up inside a folder and it keeps track of every change you make to the files inside it.
 
-The first draft focuses on the (political) potentialities of the documentation text present in each git-based project: what kind of ethics are present in it?
+*(to edit)*
+The first draft focuses on the (political) potentialities of the documentation text present in each git-based project: what are the ethics present in it?
