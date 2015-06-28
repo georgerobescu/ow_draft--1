@@ -127,3 +127,17 @@ I don’t really like, to certain extents, the attitude of printing out the inte
 Yesterday, talking about all this with Alberto, he said showing also the text and not just the audio tracks, it’s a way to scan the same “document” in a different way, which is not, or less, linear, as it happen with sound. The text is indeed divide into sections, and in the index of the readme.md file on github.com, every section is linked to the relative § (hello #local-scroll).
 
 This jumping to different portions of the text is probably more easily and physically possible to do with a booklet. You browse it and voilà! random page.
+
+(*pause*)
+
+I realised what was not working with keeping two browser windows one next to the other: each window has to have its own visual space. Therefore, I’ll put them fullscreen. I was deciding if it was better to just put them in two separated tabs and using one window. But then I realised there’s apparently no way to repeat a playlist in soundcloud (have to check better). And maybe, this is a good thing, I might just use iTunes and then hide everything on the desktop if someone swipes left or right and goes away from the fullscreen browser window (with the `readme.md` page).
+
+In this way, still, I wonder if I am not putting the sound element on a lower level than the text element. That’s the tricky part of living in a very obsessed visual-driven culture. That’s way having to tabs in the browser window would be the a nice approach. You visually see there are two pages you can check. You see one is a soundcloud page, which if you know makes you do a connection, if not, you’re going to check it out?
+The only way to play the same playlist on and on is through the shuffle option, it seems. I’m not sure I want to break the linearity of the audio-text, in this case.
+
+I tried the browser window+iTunes setup, both windows side to side (non-fullscreen mode), and it’s quite confusing: not in sense of how to interact with things, but at the level of why are you showing it this way.
+
+Indeed, I am now more convinced that having a one-fullscreen browser window with two open tabs is the best way. The visitor can move between the two website and if the soundcloud playlist stops (since there’s no repeat option in the website), he she can just click on the big play button again (I feel so stupid about it, thinking of having to setup an on-repeat option at all cost and not giving trust to the visitor).
+
+The two tabs work as iterations of the same source-text, you move back and forth with different (internal) times.
+
