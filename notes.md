@@ -99,3 +99,31 @@ In that same period a new shift in the economic paradigm happened, with the risi
 Nowadays, the life of a developer is comprised of prototyping session, production code session, reviews and discussion about it, stitched together by an overall layer of maintenance of all these artefacts in an intelligible and coherent form. There are for sure teams in which big projects are split down into smaller chunks, but still, these tasks are accomplished by each component of that same team.
 
 Hence, how did the internet replicate and transform the aspect of the maintenance work to such levels of representation, see the `readme.md` file? What are the political potentialities of such a low-profile artefact in the (re)definition of this kind of worker?
+
+* * *
+
+## Brief considerations about how to present the artwork for the Year-End exhibition at the atelier
+
+In thinking about how to display the first example of the Thesis Research, I came across a doubt: would it be better to also show the original text in the written form, beside to the audio tracks (which translates this text to a sound form)?
+
+I feel it is necessary, since it gives the ground to show how things are moving: the text is no less important than the later translation of it in an audio form. This last one, though being more appealing probably, more effective in expressing the situation (cfr. set, stage), where I see this work being placed, or for whom, or within which context and discourse, hides nonetheless the (raw? boring?) nature of the tools that I want to inquiry. Hence, let’s show the text in its visual-textual form.
+
+Here comes a new crossroads: should I print it out or should I display it through the website (the github project I created)? In the latter scenario the thing stays even more natural, in its place (I don’t know why and in which way I am using the adjective natural here, but it feels okay–appropriate to use it). In the former case, instead, the text would pass through a new transformation to a paper office-document or booklet-like format.
+
+An element to keep in mind, which I would like it to be just a minor one (and maybe it is), but it might be quite relevant, is that I’m gonna most probably use my laptop to display the artwork: the soundcloud page where I uploaded the playlist and the github project where you can read the text. The only problem that I see in this is that the exhibition lasts two weeks, and I just have one laptop (which I need, tbc). But apparently after the opening the exhibition will work through “on-appointment” visits. So this might facilitate a lot the things.
+
+Said this, if I would be inclined to print out the `readme.md` text on paper, the artwork would immediately change to something else. Not completely different, but it would become a set of instructions/documentation. Which is not really the case, because the text is a mix between a manifesto and self-help tips on how to use the git and github.com technologies. The manifesto part is more contemplative and at times absurd or weird on the tool itself, opening the discourse to other kind of implications besides the technical knowledge of, for example, how to make a `pull request`.
+
+And my fear, or my not being really convinced about printing the text out, is that it might be just an easy way for the visitors to understand that there is a text and some audio tracks, as clear and distinctive objects. I want to emphasise that I don’t think this would make more accessibile the artwork itself, but just on a level of objects, of materials of which the artwork is composed of, the booklet or paper form has, at first sight—probably?—a higher connection to the idea that there is a text, its indexical value is higher than a webpage in a browser.
+
+Again, if I am concern about a contextualisation of the artwork, and I am, I would just place a laptop with these two pages open in two browser windows. I would put the computer on one of the white tables that we have in the studio together with a glass of water (possible workspace for a software developer?).
+
+Of course I am fascinated by the idea of printing out the `readme.md` text in a booklet format in which every edit of the text finds space in the book. But what for? To show the process? In that case it would be probably more interesting to print on the same page, overlapping, the same text but in different version (moments of the draft) using two colours: one for the final version and one for the wip versions. But I am not sure I want to draw attention to that, since it’s going to take away importance to the sound piece.
+
+Okay, so now the hypothesis of showing both artworks as interdependent but standing on their own. Still, thinking why printing out the `readme.md` text, besides for the apparent accessibility reason, to me it still looks so out of place that text on a piece of paper. But for sure it is more easily readable.
+
+I don’t really like, to certain extents, the attitude of printing out the internet, of printing the web and its databases or portion of texts as an aesthetic act which dies right there, often times. I like that it dies just there, what I found sometimes lazy is printing out something from the internet just because, and make it seems interesting just because of the aesthetic and performative act itself. Considering this, I’m not sure of this performative act onto paper, I am way more interested in the performative possibilities of the webpage, at this point.
+
+Yesterday, talking about all this with Alberto, he said showing also the text and not just the audio tracks, it’s a way to scan the same “document” in a different way, which is not, or less, linear, as it happen with sound. The text is indeed divide into sections, and in the index of the readme.md file on github.com, every section is linked to the relative § (hello #local-scroll).
+
+This jumping to different portions of the text is probably more easily and physically possible to do with a booklet. You browse it and voilà! random page.
