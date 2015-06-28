@@ -58,7 +58,7 @@ The value of the `readme.md` file lies exactly in this: it welcomes others to a 
 And specifically, for collaborate on a project with other people:
 * `fork` (a project repository→cloning it to your own `git` profile in order to have a separated identical copy on which you can work without creating problems with the “original” one).
 * `pull request` (a way to ask to the user who made the original repo you are collaborating on, if your changes are okay or not).
-* `open an issues` (tracking and solving bugs found throughout the repo you are using).
+* `open an issue` (tracking and solving bugs found throughout the repo you are using).
 
 The words chosen for the verbs to perform these actions and interact, through the system, with other contributors, might result at first a bit intimidating. After a couple of times, anyway, they will give the opposite feeling, one of clarity and self-confidence in one’s own actions.
 
