@@ -139,5 +139,5 @@ I tried the browser window+iTunes setup, both windows side to side (non-fullscre
 
 Indeed, I am now more convinced that having a one-fullscreen browser window with two open tabs is the best way. The visitor can move between the two website and if the soundcloud playlist stops (since there’s no repeat option in the website), he she can just click on the big play button again (I feel so stupid about it, thinking of having to setup an on-repeat option at all cost and not giving trust to the visitor).
 
-The two tabs work as iterations of the same source-text, you move back and forth with different (internal) times.
+The two tabs work as iterations of the same source-text, you move back and forth with different (internal) times. The audio source coming from somewhere (?) is an incentive to check out the other tab and then maybe going back to the previous one.
 
