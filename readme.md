@@ -23,7 +23,7 @@ Contents:
 Create a new `readme.md` file in which you outline the intentions and objectives of the repository:
 * What’s the aim of the project? Are you forking someone else project—thus supposedly improving it—or did you create a fresh new repo?
 * How do you expect to use this code? 
-* Why are you sharing it over on github? Is there a desire of being part of the/a community or is it simply a backup plan? Or, rather, is it just that you connect using the `git` version control system to github so strongly that you think it’s not possible to use solely `git` on your local machine?
+* Why are you sharing it over on github? Is there a desire of being part of the/a community or is it simply a backup plan? Or, rather, is it just that you associate using the `git` version control system to github so strongly that you think it’s not possible to use solely `git` on your local machine?
 
 For now, adding a simple description (one-liner!) of the repository is enough. Over time, and especially when you will `push` the final `commit` to at least reach the version 1.0 of the project, you’ll have (a) enough material, (b) hopefully a clearer idea of its purposes and (c) a bit more time to invest in the explanation and/or documentation of the repository.
 
@@ -46,18 +46,18 @@ The `readme.md` file is a personal statement about the work that you’re doing,
 
 Depending on your own interests and needs, it might be that you’re working on a personal project just on your own or, on the other side, you might be collaborating on someone else’s project—which at this point could be considered solely initiated by this someone else, but since the many contributions by other different enthusiastic people, not anymore his *own thing*; it depends.
 
-This passage marks a move from a personal space of action and connected morality, to a broader stage in which ethics have their own importance: you publish your repository somewhere over the internet and you are willing to let other people inspect your project and taking part in it, if they wish so.
+This passage marks a move from a personal space of action and connected morality, to a broader stage in which ethics have their own importance: you publish your repository somewhere over the internet and you are willing to let other people inspect your project and take part in it, if they wish so.
 
 The value of the `readme.md` file lies exactly in this: it welcomes others to a possibile conversation. The `readme.md` file is a subjective effort in making readable and understandable what you did or what you just started doing.
 
 *How does this happen*? Here some common actions you can do using git:
 * `commit` (one or several changes you made on your files, gathered together and ready to be sent up to the server).
 * `push` (up a `commit` to the server).
-* `pull` (down from the server the latest updated version of a repository project).
+* `pull` (down from the server the latest updated version of a project’s repository).
 
-And specifically, for collaborate on a project with other people:
-* `fork` (a project repository→cloning it to your own `git` profile in order to have a separated identical copy on which you can work without creating problems with the “original” one).
-* `pull request` (a way to ask to the user who made the original repo you are collaborating on, if your changes are okay or not).
+And specifically, for collaborating on a project with other people:
+* `fork` (a project repository→cloning it to your own github profile, in order to have a separated identical copy on which you can work, without creating problems with the “original” one).
+* `pull request` (a way to ask the user who made the original repo you are collaborating on, if your changes are okay or not).
 * `open an issue` (tracking and solving bugs found throughout the repo you are using).
 
 The words chosen for the verbs to perform these actions and interact, through the system, with other contributors, might result at first a bit intimidating. After a couple of times, anyway, they will give the opposite feeling, one of clarity and self-confidence in one’s own actions.
@@ -80,7 +80,7 @@ Whenever you make changes to your project, it’s good practice to `commit` thos
 
 *How can you help to contribute on someone else’s project?*
 
-1. Make sure you are logged in on one of the many services which let you share git-repositories online (e.g. github, bitbucket).
+- Make sure you are logged in on one of the many services which let you share git-repositories online (e.g. github, bitbucket).
 2. Find a repository which you like.
 3. Click on the `fork` button; in this way a copy (duplicate) of the repository will be created inside your own profile and you can immediately start to work on it (the content of the repository has been `pulled` down to your own `git` profile).
 4. When you are done with the changes, just `push` it back to the master repository (the original source from which you `forked` it) and ask for a `pull request` session. Other people (*users?*) involved in the repository (from the original creator of the repository to other contributors who forked the project as well) will receive a notification.
@@ -99,7 +99,7 @@ A technique like this, let someone almost completely abstract her himself from t
 
 Conversely, the same feature can be intensely used to debate if there’s still one original creator of the project: what happen when the contributors take more and more voice in the discourse of it? How does the original creator feel like, especially when he she moved to the position of project manager? Does she he take the role of the Art Director or of the janitor? Since she he’s still in charge of deciding which `pull requests` to accept and to `merge` to the master project and which not, but at the same time has to possibly manage a mountain of other `pull requests` because the project got quite some popularity, where does he she position him herself?
 
-It is maybe here that the `readme.md` file becomes once again valuable in expressing a clear position on how you prefer to lead the project. The tools are there to keep the processes go smoothly, but you decide on which intensity to keep going.
+It is maybe here that the `readme.md` file becomes once again valuable in expressing a clear position on how you prefer to lead the project. The tools are there to keep the processes going smoothly, but you decide on which intensity to keep going.
 
 ## 4. Transparency
 
