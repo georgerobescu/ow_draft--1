@@ -134,9 +134,9 @@ Moreover, it needs a constant maintenance work. Keep it tidy and up-to-date. Cha
 
 Putting at disposal your code means you have to take care of it three times more:
 
-1. Make it readable for the outside.
+1. Make it readable to the outside.
 2. Being available for changes and collaborations.
-3. Keep on work on it, it has a user-base now.
+3. Keep on working on it, it has a user-base now.
 
 °_° 
 
