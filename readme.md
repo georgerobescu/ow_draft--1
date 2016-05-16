@@ -48,7 +48,7 @@ Depending on your own interests and needs, it might be that you’re working on 
 
 This passage marks a move from a personal space of action and connected morality, to a broader stage in which ethics have their own importance: you publish your repository somewhere over the internet and you are willing to let other people inspect your project and take part in it, if they wish so.
 
-The value of the `readme.md` file lies exactly in this: it welcomes others to a possibile conversation. The `readme.md` file is a subjective effort in making readable and understandable what you did or what you just started doing.
+The value of the `readme.md` file lies exactly in this: it welcomes others to a possible conversation. The `readme.md` file is a subjective effort in making readable and understandable what you did or what you just started doing.
 
 *How does this happen*? Here some common actions you can do using git:
 * `commit` (one or several changes you made on your files, gathered together and ready to be sent up to the server).
@@ -62,14 +62,14 @@ And specifically, for collaborating on a project with other people:
 
 The words chosen for the verbs to perform these actions and interact, through the system, with other contributors, might result at first a bit intimidating. After a couple of times, anyway, they will give the opposite feeling, one of clarity and self-confidence in one’s own actions.
 
-You `forked` this repository and it is still everything under control even in the scary case you were about to screw up the whole thing, since your were working on your personal copy of that project. `Pull requests` and `issues` are much more effective for a back and forth dialogue than for a simple exchange of new (improved) code. Github instills a certain dose of confidence in the horizontality of such tools—you can either reach out your code buddy or an important developer you admire who’s working at google—without the same possible intimidation that there could be through email or even on twitter. One reason for this is the easiness with which you can talk about something with someone, while editing it at the same time. It’s like being around the same table and play with modeling clay together.
+You `forked` this repository and it is still everything under control even in the scary case you were about to screw up the whole thing, since your were working on your personal copy of that project. `Pull requests` and `issues` are much more effective for a back and forth dialogue than for a simple exchange of new (improved) code. Github instills a certain dose of confidence in the horizontality of such tools—you can either reach out your code buddy or an important developer you admire who’s working at google—without the same possible intimidation that there could be through email or even on twitter. One reason for this is the easiness with which you can talk about something with someone, while editing it at the same time. It’s like being around the same table and play with modelling clay together.
 
 Make sure your `readme.md` file inspires this kind of openness, not necessarily in the statements you are posing, but in the underlying sensation one might have while reading it. Being clear in the kind of resonance that you’d like to have with the community will help you in establishing the type of interaction you will receive back, later on.
 
 
 # 3. Peer production
 
-`git` is a system that works as an invisibile set of files inside the folder which you decide to use as your project repository.
+`git` is a system that works as an invisible set of files inside the folder which you decide to use as your project repository.
 What it does is to keep track of every change you implement to the files living in that folder: it’s like an invisible layer of pre-punched holes in your timecard. In fact, it’s you the one who decides when to really mark a change, or a series of changes, to the project: what you did, then, is a `commit` to the repository.
 
 In this sense, usually the first file that you create and then `commit` to the repository is the `readme.md` file—it’s not necessary but it usually helps you to at least give a brief description of what’s going on in that repo.
@@ -118,7 +118,7 @@ Both points are mostly a matter of the people you are working with in a specific
 
 As you’re building a micro public space, what’s your policy on the element of discoverability and surprise? Though ornamenting a `readme.md` file on github is probably not the smartest of choices, since it’s the first text you see when you open up the project page, other techniques like disseminating in some of your other working files small ascii art drawings (such as in the `style.css` file), might result in an act of pleasure for the ones stumbling upon it.
 
-Keeping a rhythm within your project makes visibile certain patterns: how much time you `commit` to your repository and what’s your level of health about it. Meaning, `have you ever curse inside the comment section of one of your commit?` That’s an example. Another sign is the level of responsiveness you are able to keep up in replying to open `issues` and `pull requests`. Being transparent is a sign of showing up and being present when it’s needed, not of sharing also the most useless piece of personal annotation (cfr. “for the sake of it”).
+Keeping a rhythm within your project makes visible certain patterns: how much time you `commit` to your repository and what’s your level of health about it. Meaning, `have you ever curse inside the comment section of one of your commit?` That’s an example. Another sign is the level of responsiveness you are able to keep up in replying to open `issues` and `pull requests`. Being transparent is a sign of showing up and being present when it’s needed, not of sharing also the most useless piece of personal annotation (cfr. “for the sake of it”).
 
 Maintaining well-defined purposes on your `readme.md` file and adopting pro-active behaviours when people start to play with your code is a nice way to back up your credibility and self-assurance on the projects you take on.
 
