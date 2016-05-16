@@ -32,7 +32,7 @@ This first step of creating and taking care of the `readme.md` file brings with 
 * Who’s watching me doing this? Is it for this reason that I am doing it?
 * Do I have and/or do I expect an audience?
 
-Depending on your personal reality, you’ll reply to the above questions in a particular way. There after, some other points might be:
+Depending on your personal reality, you’ll reply to the above questions in a particular way. Thereafter, some other points might be:
 * Am I part of a community?
 * Do I feel the obligation to share, improve and take part in a general (and particular) discourse or in many? (e.g. forking cool projects that I like in order to improve them and spread them in my circles; feeling the right to take as much free code as possible and use it in my own retributed projects without ethical consequences, since it has been put out there and nobody will ever know).
 * What are the dynamics of these communities and more specifically of these artefacts, tools, and means of productions?
